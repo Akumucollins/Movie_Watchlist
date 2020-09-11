@@ -1,0 +1,583 @@
+[
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "FlaskForm",
+        "importPath": "flask_wtf",
+        "description": "flask_wtf",
+        "isExtraImport": true,
+        "detail": "flask_wtf",
+        "documentation": {
+            "value": "\n```python\nimport flask_wtf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "StringField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {
+            "value": "\n```python\nimport wtforms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TextAreaField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {
+            "value": "\n```python\nimport wtforms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SubmitField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {
+            "value": "\n```python\nimport wtforms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Required",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {
+            "value": "\n```python\nimport wtforms.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Bootstrap",
+        "importPath": "flask_bootstrap",
+        "description": "flask_bootstrap",
+        "isExtraImport": true,
+        "detail": "flask_bootstrap",
+        "documentation": {
+            "value": "\n```python\nimport flask_bootstrap\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "config_options",
+        "importPath": "config",
+        "description": "config",
+        "isExtraImport": true,
+        "detail": "config",
+        "documentation": {
+            "value": "\n```python\nimport config\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "urllib.request,json",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "urllib.request.json",
+        "description": "urllib.request.json",
+        "detail": "urllib.request.json",
+        "documentation": {
+            "value": "\n```python\nimport urllib.request.json\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "unittest",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "unittest",
+        "description": "unittest",
+        "detail": "unittest",
+        "documentation": {
+            "value": "\n```python\nimport unittest\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Movie",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nimport app.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Movie",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nimport app.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "os",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "os",
+        "description": "os",
+        "detail": "os",
+        "documentation": {
+            "value": "\n```python\nimport os\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {
+            "value": "\n```python\nimport app\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Manager",
+        "importPath": "flask_script",
+        "description": "flask_script",
+        "isExtraImport": true,
+        "detail": "flask_script",
+        "documentation": {
+            "value": "\n```python\nimport flask_script\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Server",
+        "importPath": "flask_script",
+        "description": "flask_script",
+        "isExtraImport": true,
+        "detail": "flask_script",
+        "documentation": {
+            "value": "\n```python\nimport flask_script\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "main",
+        "kind": 5,
+        "importPath": "app.main.__init__",
+        "description": "app.main.__init__",
+        "peekOfCode": "main = Blueprint('main',__name__)\nfrom . import views,error",
+        "detail": "app.main.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.__init__ import main\n```\n\n```python\n\n\n```\n\n```python\nmain = Blueprint('main',__name__)\nfrom . import views,error\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "four_Ow_four",
+        "kind": 2,
+        "importPath": "app.main.error",
+        "description": "app.main.error",
+        "peekOfCode": "def four_Ow_four(error):\n    '''\n    Function to render the 404 error page\n    '''\n    return render_template('fourOwfour.html'),404",
+        "detail": "app.main.error",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.error import four_Ow_four\n```\n\n```python\n\n\n```\n\n```python\ndef four_Ow_four(error):\n    '''\n    Function to render the 404 error page\n    '''\n    return render_template('fourOwfour.html'),404\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ReviewForm",
+        "kind": 6,
+        "importPath": "app.main.forms",
+        "description": "app.main.forms",
+        "peekOfCode": "class ReviewForm(FlaskForm):\n    title = StringField('Review title',validators=[Required()])\n    review = TextAreaField('Movie review', validators=[Required()])\n    submit = SubmitField('Submit')",
+        "detail": "app.main.forms",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.forms import ReviewForm\n```\n\n```python\n\n\n```\n\n```python\nclass ReviewForm(FlaskForm):\n    title = StringField('Review title',validators=[Required()])\n    review = TextAreaField('Movie review', validators=[Required()])\n    submit = SubmitField('Submit')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "index",
+        "kind": 2,
+        "importPath": "app.main.views",
+        "description": "app.main.views",
+        "peekOfCode": "def index():\n    '''\n    View root page function that returns the index page and its data\n    '''\n    # Getting popular movie\n    popular_movies = get_movies('popular')\n    upcoming_movie = get_movies('upcoming')\n    now_showing_movie = get_movies('now_playing')\n    title = 'Home - Welcome to The best Movie Review Website Online'\n    search_movie = request.args.get('movie_query')",
+        "detail": "app.main.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.views import index\n```\n\n```python\n\n\n```\n\n```python\ndef index():\n    '''\n    View root page function that returns the index page and its data\n    '''\n    # Getting popular movie\n    popular_movies = get_movies('popular')\n    upcoming_movie = get_movies('upcoming')\n    now_showing_movie = get_movies('now_playing')\n    title = 'Home - Welcome to The best Movie Review Website Online'\n    search_movie = request.args.get('movie_query')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "movie",
+        "kind": 2,
+        "importPath": "app.main.views",
+        "description": "app.main.views",
+        "peekOfCode": "def movie(id):\n    '''\n    View movie page function that returns the movie details page and its data\n    '''\n    movie = get_movie(id)\n    title = f'{movie.title}'\n    reviews = Review.get_reviews(movie.id)\n    return render_template('movie.html',title = title,movie = movie,reviews = reviews)\n@main.route('/search/<movie_name>')\ndef search(movie_name):",
+        "detail": "app.main.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.views import movie\n```\n\n```python\n\n\n```\n\n```python\ndef movie(id):\n    '''\n    View movie page function that returns the movie details page and its data\n    '''\n    movie = get_movie(id)\n    title = f'{movie.title}'\n    reviews = Review.get_reviews(movie.id)\n    return render_template('movie.html',title = title,movie = movie,reviews = reviews)\n@main.route('/search/<movie_name>')\ndef search(movie_name):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "search",
+        "kind": 2,
+        "importPath": "app.main.views",
+        "description": "app.main.views",
+        "peekOfCode": "def search(movie_name):\n    '''\n    View function to display the search results\n    '''\n    movie_name_list = movie_name.split(\" \")\n    movie_name_format = \"+\".join(movie_name_list)\n    searched_movies = search_movie(movie_name_format)\n    title = f'search results for {movie_name}'\n    return render_template('search.html',movies = searched_movies)\n@main.route('/movie/review/new/<int:id>', methods = ['GET','POST'])",
+        "detail": "app.main.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.views import search\n```\n\n```python\n\n\n```\n\n```python\ndef search(movie_name):\n    '''\n    View function to display the search results\n    '''\n    movie_name_list = movie_name.split(\" \")\n    movie_name_format = \"+\".join(movie_name_list)\n    searched_movies = search_movie(movie_name_format)\n    title = f'search results for {movie_name}'\n    return render_template('search.html',movies = searched_movies)\n@main.route('/movie/review/new/<int:id>', methods = ['GET','POST'])\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "new_review",
+        "kind": 2,
+        "importPath": "app.main.views",
+        "description": "app.main.views",
+        "peekOfCode": "def new_review(id):\n    form = ReviewForm()\n    movie = get_movie(id)\n    if form.validate_on_submit():\n        title = form.title.data\n        review = form.review.data\n        new_review = Review(movie.id,title,movie.poster,review)\n        new_review.save_review()\n        return redirect(url_for('main.movie',id = movie.id ))\n    title = f'{movie.title} review'",
+        "detail": "app.main.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.views import new_review\n```\n\n```python\n\n\n```\n\n```python\ndef new_review(id):\n    form = ReviewForm()\n    movie = get_movie(id)\n    if form.validate_on_submit():\n        title = form.title.data\n        review = form.review.data\n        new_review = Review(movie.id,title,movie.poster,review)\n        new_review.save_review()\n        return redirect(url_for('main.movie',id = movie.id ))\n    title = f'{movie.title} review'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "create_app",
+        "kind": 2,
+        "importPath": "app.__init__",
+        "description": "app.__init__",
+        "peekOfCode": "def create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    # Registering the blueprint\n    from .main import main as main_blueprint\n    app.register_blueprint(main_blueprint)\n    # setting config",
+        "detail": "app.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.__init__ import create_app\n```\n\n```python\n\n\n```\n\n```python\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    # Registering the blueprint\n    from .main import main as main_blueprint\n    app.register_blueprint(main_blueprint)\n    # setting config\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "bootstrap",
+        "kind": 5,
+        "importPath": "app.__init__",
+        "description": "app.__init__",
+        "peekOfCode": "bootstrap = Bootstrap()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    # Registering the blueprint\n    from .main import main as main_blueprint\n    app.register_blueprint(main_blueprint)",
+        "detail": "app.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.__init__ import bootstrap\n```\n\n```python\n\n\n```\n\n```python\nbootstrap = Bootstrap()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    # Registering the blueprint\n    from .main import main as main_blueprint\n    app.register_blueprint(main_blueprint)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Movie",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Movie:\n    '''\n    Movie class to define Movie Objects\n    '''\n    def __init__(self,id,title,overview,poster,vote_average,vote_count):\n        self.id =id\n        self.title = title\n        self.overview = overview\n        self.poster = \"https://image.tmdb.org/t/p/w500/\" + poster\n        self.vote_average = vote_average",
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nfrom app.models import Movie\n```\n\n```python\n\n\n```\n\n```python\nclass Movie:\n    '''\n    Movie class to define Movie Objects\n    '''\n    def __init__(self,id,title,overview,poster,vote_average,vote_count):\n        self.id =id\n        self.title = title\n        self.overview = overview\n        self.poster = \"https://image.tmdb.org/t/p/w500/\" + poster\n        self.vote_average = vote_average\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Review",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Review:\n    all_reviews = []\n    def __init__(self,movie_id,title,imageurl,review):\n        self.movie_id = movie_id\n        self.title = title\n        self.imageurl = imageurl\n        self.review = review\n    def save_review(self):\n        Review.all_reviews.append(self)\n    @classmethod",
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nfrom app.models import Review\n```\n\n```python\n\n\n```\n\n```python\nclass Review:\n    all_reviews = []\n    def __init__(self,movie_id,title,imageurl,review):\n        self.movie_id = movie_id\n        self.title = title\n        self.imageurl = imageurl\n        self.review = review\n    def save_review(self):\n        Review.all_reviews.append(self)\n    @classmethod\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "configure_request",
+        "kind": 2,
+        "importPath": "app.request",
+        "description": "app.request",
+        "peekOfCode": "def configure_request(app):\n    global api_key,base_url\n    api_key = app.config['MOVIE_API_KEY']\n    base_url = app.config['MOVIE_API_BASE_URL']\ndef get_movies(category):\n    '''\n    Function that gets the json response to our url request\n    '''\n    get_movies_url = base_url.format(category,api_key)\n    with urllib.request.urlopen(get_movies_url) as url:",
+        "detail": "app.request",
+        "documentation": {
+            "value": "\n```python\nfrom app.request import configure_request\n```\n\n```python\n\n\n```\n\n```python\ndef configure_request(app):\n    global api_key,base_url\n    api_key = app.config['MOVIE_API_KEY']\n    base_url = app.config['MOVIE_API_BASE_URL']\ndef get_movies(category):\n    '''\n    Function that gets the json response to our url request\n    '''\n    get_movies_url = base_url.format(category,api_key)\n    with urllib.request.urlopen(get_movies_url) as url:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_movies",
+        "kind": 2,
+        "importPath": "app.request",
+        "description": "app.request",
+        "peekOfCode": "def get_movies(category):\n    '''\n    Function that gets the json response to our url request\n    '''\n    get_movies_url = base_url.format(category,api_key)\n    with urllib.request.urlopen(get_movies_url) as url:\n        get_movies_data = url.read()\n        get_movies_response = json.loads(get_movies_data)\n        movie_results = None\n        if get_movies_response['results']:",
+        "detail": "app.request",
+        "documentation": {
+            "value": "\n```python\nfrom app.request import get_movies\n```\n\n```python\n\n\n```\n\n```python\ndef get_movies(category):\n    '''\n    Function that gets the json response to our url request\n    '''\n    get_movies_url = base_url.format(category,api_key)\n    with urllib.request.urlopen(get_movies_url) as url:\n        get_movies_data = url.read()\n        get_movies_response = json.loads(get_movies_data)\n        movie_results = None\n        if get_movies_response['results']:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "process_results",
+        "kind": 2,
+        "importPath": "app.request",
+        "description": "app.request",
+        "peekOfCode": "def process_results(movie_list):\n    '''\n    Function  that processes the movie result and transform them to a list of Objects\n    Args:\n        movie_list: A list of dictionaries that contain movie details\n    Returns :\n        movie_results: A list of movie objects\n    '''\n    movie_results = []\n    for movie_item in movie_list:",
+        "detail": "app.request",
+        "documentation": {
+            "value": "\n```python\nfrom app.request import process_results\n```\n\n```python\n\n\n```\n\n```python\ndef process_results(movie_list):\n    '''\n    Function  that processes the movie result and transform them to a list of Objects\n    Args:\n        movie_list: A list of dictionaries that contain movie details\n    Returns :\n        movie_results: A list of movie objects\n    '''\n    movie_results = []\n    for movie_item in movie_list:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "get_movie",
+        "kind": 2,
+        "importPath": "app.request",
+        "description": "app.request",
+        "peekOfCode": "def get_movie(id):\n    get_movie_details_url = base_url.format(id,api_key)\n    with urllib.request.urlopen(get_movie_details_url) as url:\n        movie_details_data = url.read()\n        movie_details_response = json.loads(movie_details_data)\n        movie_object = None\n        if movie_details_response:\n            id = movie_details_response.get('id')\n            title = movie_details_response.get('original_title')\n            overview = movie_details_response.get('overview')",
+        "detail": "app.request",
+        "documentation": {
+            "value": "\n```python\nfrom app.request import get_movie\n```\n\n```python\n\n\n```\n\n```python\ndef get_movie(id):\n    get_movie_details_url = base_url.format(id,api_key)\n    with urllib.request.urlopen(get_movie_details_url) as url:\n        movie_details_data = url.read()\n        movie_details_response = json.loads(movie_details_data)\n        movie_object = None\n        if movie_details_response:\n            id = movie_details_response.get('id')\n            title = movie_details_response.get('original_title')\n            overview = movie_details_response.get('overview')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "search_movie",
+        "kind": 2,
+        "importPath": "app.request",
+        "description": "app.request",
+        "peekOfCode": "def search_movie(movie_name):\n    search_movie_url = 'https://api.themoviedb.org/3/search/movie?api_key={}&query={}'.format(api_key,movie_name)\n    with urllib.request.urlopen(search_movie_url) as url:\n        search_movie_data = url.read()\n        search_movie_response = json.loads(search_movie_data)\n        search_movie_results = None\n        if search_movie_response['results'] and len( search_movie_response['results']) !=0:\n            search_movie_list = search_movie_response['results']\n            search_movie_results = process_results(search_movie_list)\n        else:",
+        "detail": "app.request",
+        "documentation": {
+            "value": "\n```python\nfrom app.request import search_movie\n```\n\n```python\n\n\n```\n\n```python\ndef search_movie(movie_name):\n    search_movie_url = 'https://api.themoviedb.org/3/search/movie?api_key={}&query={}'.format(api_key,movie_name)\n    with urllib.request.urlopen(search_movie_url) as url:\n        search_movie_data = url.read()\n        search_movie_response = json.loads(search_movie_data)\n        search_movie_results = None\n        if search_movie_response['results'] and len( search_movie_response['results']) !=0:\n            search_movie_list = search_movie_response['results']\n            search_movie_results = process_results(search_movie_list)\n        else:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "api_key",
+        "kind": 5,
+        "importPath": "app.request",
+        "description": "app.request",
+        "peekOfCode": "api_key = None\n# Getting the movie base url\nbase_url = None\ndef configure_request(app):\n    global api_key,base_url\n    api_key = app.config['MOVIE_API_KEY']\n    base_url = app.config['MOVIE_API_BASE_URL']\ndef get_movies(category):\n    '''\n    Function that gets the json response to our url request",
+        "detail": "app.request",
+        "documentation": {
+            "value": "\n```python\nfrom app.request import api_key\n```\n\n```python\n\n\n```\n\n```python\napi_key = None\n# Getting the movie base url\nbase_url = None\ndef configure_request(app):\n    global api_key,base_url\n    api_key = app.config['MOVIE_API_KEY']\n    base_url = app.config['MOVIE_API_BASE_URL']\ndef get_movies(category):\n    '''\n    Function that gets the json response to our url request\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "base_url",
+        "kind": 5,
+        "importPath": "app.request",
+        "description": "app.request",
+        "peekOfCode": "base_url = None\ndef configure_request(app):\n    global api_key,base_url\n    api_key = app.config['MOVIE_API_KEY']\n    base_url = app.config['MOVIE_API_BASE_URL']\ndef get_movies(category):\n    '''\n    Function that gets the json response to our url request\n    '''\n    get_movies_url = base_url.format(category,api_key)",
+        "detail": "app.request",
+        "documentation": {
+            "value": "\n```python\nfrom app.request import base_url\n```\n\n```python\n\n\n```\n\n```python\nbase_url = None\ndef configure_request(app):\n    global api_key,base_url\n    api_key = app.config['MOVIE_API_KEY']\n    base_url = app.config['MOVIE_API_BASE_URL']\ndef get_movies(category):\n    '''\n    Function that gets the json response to our url request\n    '''\n    get_movies_url = base_url.format(category,api_key)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MOVIE_API_KEY",
+        "kind": 5,
+        "importPath": "instance.config",
+        "description": "instance.config",
+        "peekOfCode": "MOVIE_API_KEY = 'd3fd8f785d72df0916d8d9932813a6b0'\nSECRET_KEY = 'eyJhbGciOiJIUzI1NiJ9'",
+        "detail": "instance.config",
+        "documentation": {
+            "value": "\n```python\nfrom instance.config import MOVIE_API_KEY\n```\n\n```python\n\n\n```\n\n```python\nMOVIE_API_KEY = 'd3fd8f785d72df0916d8d9932813a6b0'\nSECRET_KEY = 'eyJhbGciOiJIUzI1NiJ9'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SECRET_KEY",
+        "kind": 5,
+        "importPath": "instance.config",
+        "description": "instance.config",
+        "peekOfCode": "SECRET_KEY = 'eyJhbGciOiJIUzI1NiJ9'",
+        "detail": "instance.config",
+        "documentation": {
+            "value": "\n```python\nfrom instance.config import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'eyJhbGciOiJIUzI1NiJ9'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MovieTest",
+        "kind": 6,
+        "importPath": "tests.movie_test",
+        "description": "tests.movie_test",
+        "peekOfCode": "class MovieTest(unittest.TestCase):\n    '''\n    Test Class to test the behaviour of the Movie class\n    '''\n    def setUp(self):\n        '''\n        Set up method that will run before every Test\n        '''\n        self.new_movie = Movie(1234,'Python Must Be Crazy','A thrilling new Python Series','/khsjha27hbs',8.5,129993)\n    def test_instance(self):",
+        "detail": "tests.movie_test",
+        "documentation": {
+            "value": "\n```python\nfrom tests.movie_test import MovieTest\n```\n\n```python\n\n\n```\n\n```python\nclass MovieTest(unittest.TestCase):\n    '''\n    Test Class to test the behaviour of the Movie class\n    '''\n    def setUp(self):\n        '''\n        Set up method that will run before every Test\n        '''\n        self.new_movie = Movie(1234,'Python Must Be Crazy','A thrilling new Python Series','/khsjha27hbs',8.5,129993)\n    def test_instance(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MovieTest",
+        "kind": 6,
+        "importPath": "tests.review_test",
+        "description": "tests.review_test",
+        "peekOfCode": "class MovieTest(unittest.TestCase):\n    '''\n    Test Class to test the behaviour of the Movie class\n    '''\n    def setUp(self):\n        '''\n        Set up method that will run before every Test\n        '''\n        self.new_movie = Movie(1234,'Python Must Be Crazy','A thrilling new Python Series','/khsjha27hbs',8.5,129993)\n    def test_instance(self):",
+        "detail": "tests.review_test",
+        "documentation": {
+            "value": "\n```python\nfrom tests.review_test import MovieTest\n```\n\n```python\n\n\n```\n\n```python\nclass MovieTest(unittest.TestCase):\n    '''\n    Test Class to test the behaviour of the Movie class\n    '''\n    def setUp(self):\n        '''\n        Set up method that will run before every Test\n        '''\n        self.new_movie = Movie(1234,'Python Must Be Crazy','A thrilling new Python Series','/khsjha27hbs',8.5,129993)\n    def test_instance(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Config",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class Config:\n    '''\n    General configuration parent class\n    '''\n    MOVIE_API_BASE_URL ='https://api.themoviedb.org/3/movie/{}?api_key={}'\n    MOVIE_API_KEY = os.environ.get('MOVIE_API_KEY')\n    SECRET_KEY = os.environ.get('SECRET_KEY')\nclass ProdConfig(Config):\n    '''\n    Production  configuration child class",
+        "detail": "config",
+        "documentation": {
+            "value": "\n```python\nfrom config import Config\n```\n\n```python\n\n\n```\n\n```python\nclass Config:\n    '''\n    General configuration parent class\n    '''\n    MOVIE_API_BASE_URL ='https://api.themoviedb.org/3/movie/{}?api_key={}'\n    MOVIE_API_KEY = os.environ.get('MOVIE_API_KEY')\n    SECRET_KEY = os.environ.get('SECRET_KEY')\nclass ProdConfig(Config):\n    '''\n    Production  configuration child class\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ProdConfig",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class ProdConfig(Config):\n    '''\n    Production  configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    pass\nclass DevConfig(Config):\n    '''\n    Development  configuration child class",
+        "detail": "config",
+        "documentation": {
+            "value": "\n```python\nfrom config import ProdConfig\n```\n\n```python\n\n\n```\n\n```python\nclass ProdConfig(Config):\n    '''\n    Production  configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    pass\nclass DevConfig(Config):\n    '''\n    Development  configuration child class\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "DevConfig",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class DevConfig(Config):\n    '''\n    Development  configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    DEBUG = True\nconfig_options = {\n'development':DevConfig,\n'production':ProdConfig",
+        "detail": "config",
+        "documentation": {
+            "value": "\n```python\nfrom config import DevConfig\n```\n\n```python\n\n\n```\n\n```python\nclass DevConfig(Config):\n    '''\n    Development  configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    DEBUG = True\nconfig_options = {\n'development':DevConfig,\n'production':ProdConfig\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "config_options",
+        "kind": 5,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "config_options = {\n'development':DevConfig,\n'production':ProdConfig\n}",
+        "detail": "config",
+        "documentation": {
+            "value": "\n```python\nfrom config import config_options\n```\n\n```python\n\n\n```\n\n```python\nconfig_options = {\n'development':DevConfig,\n'production':ProdConfig\n}\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "app",
+        "kind": 5,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "app = create_app('development')\nmanager = Manager(app)\nmanager.add_command('server',Server)\nmanager.add_command('server',Server)\nif __name__ == '__main__':\n    manager.run()",
+        "detail": "manage",
+        "documentation": {
+            "value": "\n```python\nfrom manage import app\n```\n\n```python\n\n\n```\n\n```python\napp = create_app('development')\nmanager = Manager(app)\nmanager.add_command('server',Server)\nmanager.add_command('server',Server)\nif __name__ == '__main__':\n    manager.run()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "manager",
+        "kind": 5,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "manager = Manager(app)\nmanager.add_command('server',Server)\nmanager.add_command('server',Server)\nif __name__ == '__main__':\n    manager.run()",
+        "detail": "manage",
+        "documentation": {
+            "value": "\n```python\nfrom manage import manager\n```\n\n```python\n\n\n```\n\n```python\nmanager = Manager(app)\nmanager.add_command('server',Server)\nmanager.add_command('server',Server)\nif __name__ == '__main__':\n    manager.run()\n```\n",
+            "supportThemeIcons": false
+        }
+    }
+]
