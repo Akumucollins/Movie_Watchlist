@@ -11,23 +11,25 @@
 {% block content %}
 
 <div class="container">
+    <h1>Welcome to Classic Movie Collection</h1>
     <form>
-        <input type="text" name="movie_query" placeholder="Search for a Movie" class="form-control">
+        <input type="text" name="movie_query" placeholder="Search for a Movie" class="form-control"><br>
         <input type="submit"  value="Submit" class="btn btn-default">
     </form>
 </div>
+<br>
 
-<div class="container">
+<div class="container-fluid mt-1" style="background-image: url('https://images.unsplash.com/photo-1525426250015-4e6473cdbf17?ixlib=rb-1.2.1&ixid=eyJhcHBfaWQiOjEyMDd9&auto=format&fit=crop&w=1350&q=80');">
     <!-- Popular movie -->
     <div class="row">
-        <h3> Popular Movies</h3>
+        <h3 class="text-center"> Popular Movies</h3>
         <ul>
             {{ macro.displayMovieList(popular)}}
         </ul>
     </div>
     <!-- Upcoming movie  -->
     <div class="row">
-        <h3> Upcoming Movies </h3>
+        <h3 class="text-center"> Upcoming Movies </h3>
         <ul>
             {{ macro.displayMovieList(upcoming)}}
         </ul>
@@ -35,7 +37,7 @@
 
     <!-- Now showing movie -->
     <div class="row">
-        <h3>Now Showing</h3>
+        <h3 class="text-center">Now Showing</h3>
         <ul>
             {{ macro.displayMovieList(now_showing)}}
         </ul>

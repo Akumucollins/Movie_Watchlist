@@ -461,30 +461,6 @@
         }
     },
     {
-        "label": "MOVIE_API_KEY",
-        "kind": 5,
-        "importPath": "instance.config",
-        "description": "instance.config",
-        "peekOfCode": "MOVIE_API_KEY = 'd3fd8f785d72df0916d8d9932813a6b0'\nSECRET_KEY = 'eyJhbGciOiJIUzI1NiJ9'",
-        "detail": "instance.config",
-        "documentation": {
-            "value": "\n```python\nfrom instance.config import MOVIE_API_KEY\n```\n\n```python\n\n\n```\n\n```python\nMOVIE_API_KEY = 'd3fd8f785d72df0916d8d9932813a6b0'\nSECRET_KEY = 'eyJhbGciOiJIUzI1NiJ9'\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "SECRET_KEY",
-        "kind": 5,
-        "importPath": "instance.config",
-        "description": "instance.config",
-        "peekOfCode": "SECRET_KEY = 'eyJhbGciOiJIUzI1NiJ9'",
-        "detail": "instance.config",
-        "documentation": {
-            "value": "\n```python\nfrom instance.config import SECRET_KEY\n```\n\n```python\n\n\n```\n\n```python\nSECRET_KEY = 'eyJhbGciOiJIUzI1NiJ9'\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
         "label": "MovieTest",
         "kind": 6,
         "importPath": "tests.movie_test",
