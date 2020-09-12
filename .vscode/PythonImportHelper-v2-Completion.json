@@ -533,14 +533,26 @@
         }
     },
     {
+        "label": "test",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':\n    manager.run()",
+        "detail": "manage",
+        "documentation": {
+            "value": "\n```python\nfrom manage import test\n```\n\n```python\n\n\n```\n\n```python\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':\n    manager.run()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "app",
         "kind": 5,
         "importPath": "manage",
         "description": "manage",
-        "peekOfCode": "app = create_app('development')\nmanager = Manager(app)\nmanager.add_command('server',Server)\nmanager.add_command('server',Server)\nif __name__ == '__main__':\n    manager.run()",
+        "peekOfCode": "app = create_app('development')\nmanager = Manager(app)\nmanager.add_command('server',Server)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':",
         "detail": "manage",
         "documentation": {
-            "value": "\n```python\nfrom manage import app\n```\n\n```python\n\n\n```\n\n```python\napp = create_app('development')\nmanager = Manager(app)\nmanager.add_command('server',Server)\nmanager.add_command('server',Server)\nif __name__ == '__main__':\n    manager.run()\n```\n",
+            "value": "\n```python\nfrom manage import app\n```\n\n```python\n\n\n```\n\n```python\napp = create_app('development')\nmanager = Manager(app)\nmanager.add_command('server',Server)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -549,10 +561,10 @@
         "kind": 5,
         "importPath": "manage",
         "description": "manage",
-        "peekOfCode": "manager = Manager(app)\nmanager.add_command('server',Server)\nmanager.add_command('server',Server)\nif __name__ == '__main__':\n    manager.run()",
+        "peekOfCode": "manager = Manager(app)\nmanager.add_command('server',Server)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':\n    manager.run()",
         "detail": "manage",
         "documentation": {
-            "value": "\n```python\nfrom manage import manager\n```\n\n```python\n\n\n```\n\n```python\nmanager = Manager(app)\nmanager.add_command('server',Server)\nmanager.add_command('server',Server)\nif __name__ == '__main__':\n    manager.run()\n```\n",
+            "value": "\n```python\nfrom manage import manager\n```\n\n```python\n\n\n```\n\n```python\nmanager = Manager(app)\nmanager.add_command('server',Server)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':\n    manager.run()\n```\n",
             "supportThemeIcons": false
         }
     }
