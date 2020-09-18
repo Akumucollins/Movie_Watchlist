@@ -19,9 +19,13 @@ p
 {
     font-size: 23px;
 }
-
+.overview
+{
+    text-align: right;
+}
 .ratings
 {
+    text-align: right;
     color: green;
 }
 .review-card h2
@@ -30,5 +34,5 @@ p
     text-transform: capitalize;
     text-align: center;
     border-bottom: 1px solid green;
-    padding-bottom: 9px;
+    padding-bottom: 10px;
 }

@@ -22,6 +22,72 @@
         }
     },
     {
+        "label": "redirect",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "url_for",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "flash",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "request",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Blueprint",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "render_template",
         "importPath": "flask",
         "description": "flask",
@@ -66,7 +132,40 @@
         }
     },
     {
+        "label": "abort",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "Flask",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "render_template",
+        "importPath": "flask",
+        "description": "flask",
+        "isExtraImport": true,
+        "detail": "flask",
+        "documentation": {
+            "value": "\n```python\nimport flask\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "current_app",
         "importPath": "flask",
         "description": "flask",
         "isExtraImport": true,
@@ -84,6 +183,72 @@
         "detail": "flask_wtf",
         "documentation": {
             "value": "\n```python\nimport flask_wtf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "FlaskForm",
+        "importPath": "flask_wtf",
+        "description": "flask_wtf",
+        "isExtraImport": true,
+        "detail": "flask_wtf",
+        "documentation": {
+            "value": "\n```python\nimport flask_wtf\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "StringField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {
+            "value": "\n```python\nimport wtforms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PasswordField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {
+            "value": "\n```python\nimport wtforms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "BooleanField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {
+            "value": "\n```python\nimport wtforms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SubmitField",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {
+            "value": "\n```python\nimport wtforms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "ValidationError",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {
+            "value": "\n```python\nimport wtforms\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -121,6 +286,17 @@
         }
     },
     {
+        "label": "ValidationError",
+        "importPath": "wtforms",
+        "description": "wtforms",
+        "isExtraImport": true,
+        "detail": "wtforms",
+        "documentation": {
+            "value": "\n```python\nimport wtforms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "Required",
         "importPath": "wtforms.validators",
         "description": "wtforms.validators",
@@ -128,6 +304,150 @@
         "detail": "wtforms.validators",
         "documentation": {
             "value": "\n```python\nimport wtforms.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Email",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {
+            "value": "\n```python\nimport wtforms.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Length",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {
+            "value": "\n```python\nimport wtforms.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "EqualTo",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {
+            "value": "\n```python\nimport wtforms.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Required",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {
+            "value": "\n```python\nimport wtforms.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Email",
+        "importPath": "wtforms.validators",
+        "description": "wtforms.validators",
+        "isExtraImport": true,
+        "detail": "wtforms.validators",
+        "documentation": {
+            "value": "\n```python\nimport wtforms.validators\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {
+            "value": "\n```python\nimport flask_login\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "logout_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {
+            "value": "\n```python\nimport flask_login\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {
+            "value": "\n```python\nimport flask_login\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login_required",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {
+            "value": "\n```python\nimport flask_login\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "current_user",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {
+            "value": "\n```python\nimport flask_login\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LoginManager",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {
+            "value": "\n```python\nimport flask_login\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UserMixin",
+        "importPath": "flask_login",
+        "description": "flask_login",
+        "isExtraImport": true,
+        "detail": "flask_login",
+        "documentation": {
+            "value": "\n```python\nimport flask_login\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "markdown2",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "markdown2",
+        "description": "markdown2",
+        "detail": "markdown2",
+        "documentation": {
+            "value": "\n```python\nimport markdown2\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -154,6 +474,116 @@
         }
     },
     {
+        "label": "SQLAlchemy",
+        "importPath": "flask_sqlalchemy",
+        "description": "flask_sqlalchemy",
+        "isExtraImport": true,
+        "detail": "flask_sqlalchemy",
+        "documentation": {
+            "value": "\n```python\nimport flask_sqlalchemy\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UploadSet",
+        "importPath": "flask_uploads",
+        "description": "flask_uploads",
+        "isExtraImport": true,
+        "detail": "flask_uploads",
+        "documentation": {
+            "value": "\n```python\nimport flask_uploads\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "configure_uploads",
+        "importPath": "flask_uploads",
+        "description": "flask_uploads",
+        "isExtraImport": true,
+        "detail": "flask_uploads",
+        "documentation": {
+            "value": "\n```python\nimport flask_uploads\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "IMAGES",
+        "importPath": "flask_uploads",
+        "description": "flask_uploads",
+        "isExtraImport": true,
+        "detail": "flask_uploads",
+        "documentation": {
+            "value": "\n```python\nimport flask_uploads\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Mail",
+        "importPath": "flask_mail",
+        "description": "flask_mail",
+        "isExtraImport": true,
+        "detail": "flask_mail",
+        "documentation": {
+            "value": "\n```python\nimport flask_mail\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Message",
+        "importPath": "flask_mail",
+        "description": "flask_mail",
+        "isExtraImport": true,
+        "detail": "flask_mail",
+        "documentation": {
+            "value": "\n```python\nimport flask_mail\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "SimpleMDE",
+        "importPath": "flask_simplemde",
+        "description": "flask_simplemde",
+        "isExtraImport": true,
+        "detail": "flask_simplemde",
+        "documentation": {
+            "value": "\n```python\nimport flask_simplemde\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "generate_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {
+            "value": "\n```python\nimport werkzeug.security\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "check_password_hash",
+        "importPath": "werkzeug.security",
+        "description": "werkzeug.security",
+        "isExtraImport": true,
+        "detail": "werkzeug.security",
+        "documentation": {
+            "value": "\n```python\nimport werkzeug.security\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "datetime",
+        "importPath": "datetime",
+        "description": "datetime",
+        "isExtraImport": true,
+        "detail": "datetime",
+        "documentation": {
+            "value": "\n```python\nimport datetime\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "urllib.request,json",
         "kind": 6,
         "isExtraImport": true,
@@ -162,6 +592,107 @@
         "detail": "urllib.request.json",
         "documentation": {
             "value": "\n```python\nimport urllib.request.json\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {
+            "value": "\n```python\nimport alembic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "op",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {
+            "value": "\n```python\nimport alembic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "context",
+        "importPath": "alembic",
+        "description": "alembic",
+        "isExtraImport": true,
+        "detail": "alembic",
+        "documentation": {
+            "value": "\n```python\nimport alembic\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sqlalchemy",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "detail": "sqlalchemy",
+        "documentation": {
+            "value": "\n```python\nimport sqlalchemy\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "engine_from_config",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {
+            "value": "\n```python\nimport sqlalchemy\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "pool",
+        "importPath": "sqlalchemy",
+        "description": "sqlalchemy",
+        "isExtraImport": true,
+        "detail": "sqlalchemy",
+        "documentation": {
+            "value": "\n```python\nimport sqlalchemy\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "with_statement",
+        "importPath": "__future__",
+        "description": "__future__",
+        "isExtraImport": true,
+        "detail": "__future__",
+        "documentation": {
+            "value": "\n```python\nimport __future__\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "logging",
+        "kind": 6,
+        "isExtraImport": true,
+        "importPath": "logging",
+        "description": "logging",
+        "detail": "logging",
+        "documentation": {
+            "value": "\n```python\nimport logging\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "fileConfig",
+        "importPath": "logging.config",
+        "description": "logging.config",
+        "isExtraImport": true,
+        "detail": "logging.config",
+        "documentation": {
+            "value": "\n```python\nimport logging.config\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -189,13 +720,112 @@
         }
     },
     {
-        "label": "Movie",
+        "label": "Review",
         "importPath": "app.models",
         "description": "app.models",
         "isExtraImport": true,
         "detail": "app.models",
         "documentation": {
             "value": "\n```python\nimport app.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nimport app.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nimport app.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nimport app.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Role",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nimport app.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PhotoProfile",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nimport app.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Review",
+        "importPath": "app.models",
+        "description": "app.models",
+        "isExtraImport": true,
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nimport app.models\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {
+            "value": "\n```python\nimport app\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "create_app",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {
+            "value": "\n```python\nimport app\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "db",
+        "importPath": "app",
+        "description": "app",
+        "isExtraImport": true,
+        "detail": "app",
+        "documentation": {
+            "value": "\n```python\nimport app\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -208,17 +838,6 @@
         "detail": "os",
         "documentation": {
             "value": "\n```python\nimport os\n```\n",
-            "supportThemeIcons": false
-        }
-    },
-    {
-        "label": "create_app",
-        "importPath": "app",
-        "description": "app",
-        "isExtraImport": true,
-        "detail": "app",
-        "documentation": {
-            "value": "\n```python\nimport app\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -241,6 +860,112 @@
         "detail": "flask_script",
         "documentation": {
             "value": "\n```python\nimport flask_script\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Migrate",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {
+            "value": "\n```python\nimport flask_migrate\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "MigrateCommand",
+        "importPath": "flask_migrate",
+        "description": "flask_migrate",
+        "isExtraImport": true,
+        "detail": "flask_migrate",
+        "documentation": {
+            "value": "\n```python\nimport flask_migrate\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "auth",
+        "kind": 5,
+        "importPath": "app.auth.__init__",
+        "description": "app.auth.__init__",
+        "peekOfCode": "auth = Blueprint('auth',__name__)\nfrom . import views,forms",
+        "detail": "app.auth.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.auth.__init__ import auth\n```\n\n```python\n\n\n```\n\n```python\nauth = Blueprint('auth',__name__)\nfrom . import views,forms\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "LoginForm",
+        "kind": 6,
+        "importPath": "app.auth.forms",
+        "description": "app.auth.forms",
+        "peekOfCode": "class LoginForm(FlaskForm):\n    email = StringField('Your Email Address',validators=[Required(),Email()])\n    password = PasswordField('Password',validators =[Required()])\n    remember = BooleanField('Remember me')\n    submit = SubmitField('Sign In')\nclass RegistrationForm(FlaskForm):\n    email = StringField('Your Email Address',validators=[Required(),Email()])\n    username = StringField('Enter your username',validators = [Required()])\n    password = PasswordField('Password',validators = [Required(),\n    EqualTo('password2',message = 'Passwords must match')])",
+        "detail": "app.auth.forms",
+        "documentation": {
+            "value": "\n```python\nfrom app.auth.forms import LoginForm\n```\n\n```python\n\n\n```\n\n```python\nclass LoginForm(FlaskForm):\n    email = StringField('Your Email Address',validators=[Required(),Email()])\n    password = PasswordField('Password',validators =[Required()])\n    remember = BooleanField('Remember me')\n    submit = SubmitField('Sign In')\nclass RegistrationForm(FlaskForm):\n    email = StringField('Your Email Address',validators=[Required(),Email()])\n    username = StringField('Enter your username',validators = [Required()])\n    password = PasswordField('Password',validators = [Required(),\n    EqualTo('password2',message = 'Passwords must match')])\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "RegistrationForm",
+        "kind": 6,
+        "importPath": "app.auth.forms",
+        "description": "app.auth.forms",
+        "peekOfCode": "class RegistrationForm(FlaskForm):\n    email = StringField('Your Email Address',validators=[Required(),Email()])\n    username = StringField('Enter your username',validators = [Required()])\n    password = PasswordField('Password',validators = [Required(),\n    EqualTo('password2',message = 'Passwords must match')])\n    password2 = PasswordField('Confirm Passwords',validators = [Required()])\n    submit = SubmitField('Sign Up')\n    def validate_email(self,data_field):\n        if User.query.filter_by(email =data_field.data).first():\n            raise ValidationError('There is an account with that email')",
+        "detail": "app.auth.forms",
+        "documentation": {
+            "value": "\n```python\nfrom app.auth.forms import RegistrationForm\n```\n\n```python\n\n\n```\n\n```python\nclass RegistrationForm(FlaskForm):\n    email = StringField('Your Email Address',validators=[Required(),Email()])\n    username = StringField('Enter your username',validators = [Required()])\n    password = PasswordField('Password',validators = [Required(),\n    EqualTo('password2',message = 'Passwords must match')])\n    password2 = PasswordField('Confirm Passwords',validators = [Required()])\n    submit = SubmitField('Sign Up')\n    def validate_email(self,data_field):\n        if User.query.filter_by(email =data_field.data).first():\n            raise ValidationError('There is an account with that email')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login",
+        "kind": 2,
+        "importPath": "app.auth.views",
+        "description": "app.auth.views",
+        "peekOfCode": "def login():\n    login_form = LoginForm()\n    if login_form.validate_on_submit():\n        user = User.query.filter_by(email = login_form.email.data).first()\n        if user is not None and user.verify_password(login_form.password.data):\n            login_user(user,login_form.remember.data)\n            return redirect(request.args.get('next') or url_for('main.index'))\n        flash('Invalid username or Password')\n    title = \"watchlist login\"\n    return render_template('auth/login.html',login_form = login_form,title=title)",
+        "detail": "app.auth.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.auth.views import login\n```\n\n```python\n\n\n```\n\n```python\ndef login():\n    login_form = LoginForm()\n    if login_form.validate_on_submit():\n        user = User.query.filter_by(email = login_form.email.data).first()\n        if user is not None and user.verify_password(login_form.password.data):\n            login_user(user,login_form.remember.data)\n            return redirect(request.args.get('next') or url_for('main.index'))\n        flash('Invalid username or Password')\n    title = \"watchlist login\"\n    return render_template('auth/login.html',login_form = login_form,title=title)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "logout",
+        "kind": 2,
+        "importPath": "app.auth.views",
+        "description": "app.auth.views",
+        "peekOfCode": "def logout():\n    logout_user()\n    flash('You have been successfully logged out')\n    return redirect(url_for(\"main.index\"))\n@auth.route('/register',methods = [\"GET\",\"POST\"])\ndef register():\n    form = RegistrationForm()\n    if form.validate_on_submit():\n        user = User(email = form.email.data, username = form.username.data,password = form.password.data)\n        db.session.add(user)",
+        "detail": "app.auth.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.auth.views import logout\n```\n\n```python\n\n\n```\n\n```python\ndef logout():\n    logout_user()\n    flash('You have been successfully logged out')\n    return redirect(url_for(\"main.index\"))\n@auth.route('/register',methods = [\"GET\",\"POST\"])\ndef register():\n    form = RegistrationForm()\n    if form.validate_on_submit():\n        user = User(email = form.email.data, username = form.username.data,password = form.password.data)\n        db.session.add(user)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "register",
+        "kind": 2,
+        "importPath": "app.auth.views",
+        "description": "app.auth.views",
+        "peekOfCode": "def register():\n    form = RegistrationForm()\n    if form.validate_on_submit():\n        user = User(email = form.email.data, username = form.username.data,password = form.password.data)\n        db.session.add(user)\n        db.session.commit()\n        mail_message(\"Welcome to watchlist\",\"email/welcome_user\",user.email,user=user)\n        return redirect(url_for('auth.login'))\n        title = \"New Account\"\n    return render_template('auth/register.html',registration_form = form)",
+        "detail": "app.auth.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.auth.views import register\n```\n\n```python\n\n\n```\n\n```python\ndef register():\n    form = RegistrationForm()\n    if form.validate_on_submit():\n        user = User(email = form.email.data, username = form.username.data,password = form.password.data)\n        db.session.add(user)\n        db.session.commit()\n        mail_message(\"Welcome to watchlist\",\"email/welcome_user\",user.email,user=user)\n        return redirect(url_for('auth.login'))\n        title = \"New Account\"\n    return render_template('auth/register.html',registration_form = form)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "@auth.route('/register',methods",
+        "kind": 5,
+        "importPath": "app.auth.views",
+        "description": "app.auth.views",
+        "peekOfCode": "@auth.route('/register',methods = [\"GET\",\"POST\"])\ndef register():\n    form = RegistrationForm()\n    if form.validate_on_submit():\n        user = User(email = form.email.data, username = form.username.data,password = form.password.data)\n        db.session.add(user)\n        db.session.commit()\n        mail_message(\"Welcome to watchlist\",\"email/welcome_user\",user.email,user=user)\n        return redirect(url_for('auth.login'))\n        title = \"New Account\"",
+        "detail": "app.auth.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.auth.views import @auth.route('/register',methods\n```\n\n```python\n\n\n```\n\n```python\n@auth.route('/register',methods = [\"GET\",\"POST\"])\ndef register():\n    form = RegistrationForm()\n    if form.validate_on_submit():\n        user = User(email = form.email.data, username = form.username.data,password = form.password.data)\n        db.session.add(user)\n        db.session.commit()\n        mail_message(\"Welcome to watchlist\",\"email/welcome_user\",user.email,user=user)\n        return redirect(url_for('auth.login'))\n        title = \"New Account\"\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -273,10 +998,22 @@
         "kind": 6,
         "importPath": "app.main.forms",
         "description": "app.main.forms",
-        "peekOfCode": "class ReviewForm(FlaskForm):\n    title = StringField('Review title',validators=[Required()])\n    review = TextAreaField('Movie review', validators=[Required()])\n    submit = SubmitField('Submit')",
+        "peekOfCode": "class ReviewForm(FlaskForm):\n    title = StringField('Review title',validators=[Required()])\n    review = TextAreaField('Movie review')\n    submit = SubmitField('Submit')\nclass UpdateProfile(FlaskForm):\n    bio = TextAreaField('Tell us about you.',validators = [Required()])\n    submit = SubmitField('Submit')",
         "detail": "app.main.forms",
         "documentation": {
-            "value": "\n```python\nfrom app.main.forms import ReviewForm\n```\n\n```python\n\n\n```\n\n```python\nclass ReviewForm(FlaskForm):\n    title = StringField('Review title',validators=[Required()])\n    review = TextAreaField('Movie review', validators=[Required()])\n    submit = SubmitField('Submit')\n```\n",
+            "value": "\n```python\nfrom app.main.forms import ReviewForm\n```\n\n```python\n\n\n```\n\n```python\nclass ReviewForm(FlaskForm):\n    title = StringField('Review title',validators=[Required()])\n    review = TextAreaField('Movie review')\n    submit = SubmitField('Submit')\nclass UpdateProfile(FlaskForm):\n    bio = TextAreaField('Tell us about you.',validators = [Required()])\n    submit = SubmitField('Submit')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UpdateProfile",
+        "kind": 6,
+        "importPath": "app.main.forms",
+        "description": "app.main.forms",
+        "peekOfCode": "class UpdateProfile(FlaskForm):\n    bio = TextAreaField('Tell us about you.',validators = [Required()])\n    submit = SubmitField('Submit')",
+        "detail": "app.main.forms",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.forms import UpdateProfile\n```\n\n```python\n\n\n```\n\n```python\nclass UpdateProfile(FlaskForm):\n    bio = TextAreaField('Tell us about you.',validators = [Required()])\n    submit = SubmitField('Submit')\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -309,10 +1046,34 @@
         "kind": 2,
         "importPath": "app.main.views",
         "description": "app.main.views",
-        "peekOfCode": "def search(movie_name):\n    '''\n    View function to display the search results\n    '''\n    movie_name_list = movie_name.split(\" \")\n    movie_name_format = \"+\".join(movie_name_list)\n    searched_movies = search_movie(movie_name_format)\n    title = f'search results for {movie_name}'\n    return render_template('search.html',movies = searched_movies)\n@main.route('/movie/review/new/<int:id>', methods = ['GET','POST'])",
+        "peekOfCode": "def search(movie_name):\n    '''\n    View function to display the search results\n    '''\n    movie_name_list = movie_name.split(\" \")\n    movie_name_format = \"+\".join(movie_name_list)\n    searched_movies = search_movie(movie_name_format)\n    title = f'search results for {movie_name}'\n    return render_template('search.html',movies = searched_movies)\n@main.route('/reviews/<int:id>')",
         "detail": "app.main.views",
         "documentation": {
-            "value": "\n```python\nfrom app.main.views import search\n```\n\n```python\n\n\n```\n\n```python\ndef search(movie_name):\n    '''\n    View function to display the search results\n    '''\n    movie_name_list = movie_name.split(\" \")\n    movie_name_format = \"+\".join(movie_name_list)\n    searched_movies = search_movie(movie_name_format)\n    title = f'search results for {movie_name}'\n    return render_template('search.html',movies = searched_movies)\n@main.route('/movie/review/new/<int:id>', methods = ['GET','POST'])\n```\n",
+            "value": "\n```python\nfrom app.main.views import search\n```\n\n```python\n\n\n```\n\n```python\ndef search(movie_name):\n    '''\n    View function to display the search results\n    '''\n    movie_name_list = movie_name.split(\" \")\n    movie_name_format = \"+\".join(movie_name_list)\n    searched_movies = search_movie(movie_name_format)\n    title = f'search results for {movie_name}'\n    return render_template('search.html',movies = searched_movies)\n@main.route('/reviews/<int:id>')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "movie_reviews",
+        "kind": 2,
+        "importPath": "app.main.views",
+        "description": "app.main.views",
+        "peekOfCode": "def movie_reviews(id):\n    movie = get_movie(id)\n    reviews = Review.get_reviews(id)\n    title = f'All reviews for {movie.title}'\n    return render_template('movie_reviews.html',title = title,reviews=reviews)\n@main.route('/review/<int:id>')\ndef single_review(id):\n    review=Review.query.get(id)\n    format_review = markdown2.markdown(review.movie_review,extras=[\"code-friendly\", \"fenced-code-blocks\"])\n    return render_template('review.html',review = review,format_review=format_review)",
+        "detail": "app.main.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.views import movie_reviews\n```\n\n```python\n\n\n```\n\n```python\ndef movie_reviews(id):\n    movie = get_movie(id)\n    reviews = Review.get_reviews(id)\n    title = f'All reviews for {movie.title}'\n    return render_template('movie_reviews.html',title = title,reviews=reviews)\n@main.route('/review/<int:id>')\ndef single_review(id):\n    review=Review.query.get(id)\n    format_review = markdown2.markdown(review.movie_review,extras=[\"code-friendly\", \"fenced-code-blocks\"])\n    return render_template('review.html',review = review,format_review=format_review)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "single_review",
+        "kind": 2,
+        "importPath": "app.main.views",
+        "description": "app.main.views",
+        "peekOfCode": "def single_review(id):\n    review=Review.query.get(id)\n    format_review = markdown2.markdown(review.movie_review,extras=[\"code-friendly\", \"fenced-code-blocks\"])\n    return render_template('review.html',review = review,format_review=format_review)\n@main.route('/movie/review/new/<int:id>', methods = ['GET','POST'])\n@login_required\ndef new_review(id):\n    form = ReviewForm()\n    movie = get_movie(id)\n    if form.validate_on_submit():",
+        "detail": "app.main.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.views import single_review\n```\n\n```python\n\n\n```\n\n```python\ndef single_review(id):\n    review=Review.query.get(id)\n    format_review = markdown2.markdown(review.movie_review,extras=[\"code-friendly\", \"fenced-code-blocks\"])\n    return render_template('review.html',review = review,format_review=format_review)\n@main.route('/movie/review/new/<int:id>', methods = ['GET','POST'])\n@login_required\ndef new_review(id):\n    form = ReviewForm()\n    movie = get_movie(id)\n    if form.validate_on_submit():\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -321,10 +1082,58 @@
         "kind": 2,
         "importPath": "app.main.views",
         "description": "app.main.views",
-        "peekOfCode": "def new_review(id):\n    form = ReviewForm()\n    movie = get_movie(id)\n    if form.validate_on_submit():\n        title = form.title.data\n        review = form.review.data\n        new_review = Review(movie.id,title,movie.poster,review)\n        new_review.save_review()\n        return redirect(url_for('main.movie',id = movie.id ))\n    title = f'{movie.title} review'",
+        "peekOfCode": "def new_review(id):\n    form = ReviewForm()\n    movie = get_movie(id)\n    if form.validate_on_submit():\n        title = form.title.data\n        review = form.review.data\n        new_review = Review(movie_id=movie.id,movie_title=title,image_path=movie.poster,movie_review=review,user=current_user)\n        new_review.save_review()\n        return redirect(url_for('.movie',id = movie.id ))\n    title = f'{movie.title} review'",
         "detail": "app.main.views",
         "documentation": {
-            "value": "\n```python\nfrom app.main.views import new_review\n```\n\n```python\n\n\n```\n\n```python\ndef new_review(id):\n    form = ReviewForm()\n    movie = get_movie(id)\n    if form.validate_on_submit():\n        title = form.title.data\n        review = form.review.data\n        new_review = Review(movie.id,title,movie.poster,review)\n        new_review.save_review()\n        return redirect(url_for('main.movie',id = movie.id ))\n    title = f'{movie.title} review'\n```\n",
+            "value": "\n```python\nfrom app.main.views import new_review\n```\n\n```python\n\n\n```\n\n```python\ndef new_review(id):\n    form = ReviewForm()\n    movie = get_movie(id)\n    if form.validate_on_submit():\n        title = form.title.data\n        review = form.review.data\n        new_review = Review(movie_id=movie.id,movie_title=title,image_path=movie.poster,movie_review=review,user=current_user)\n        new_review.save_review()\n        return redirect(url_for('.movie',id = movie.id ))\n    title = f'{movie.title} review'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "profile",
+        "kind": 2,
+        "importPath": "app.main.views",
+        "description": "app.main.views",
+        "peekOfCode": "def profile(uname):\n    user = User.query.filter_by(username = uname).first()\n    if user is None:\n        abort(404)\n    return render_template(\"profile/profile.html\", user = user)\n@main.route('/user/<uname>/update',methods = ['GET','POST'])\n@login_required\ndef update_profile(uname):\n    user = User.query.filter_by(username = uname).first()\n    if user is None:",
+        "detail": "app.main.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.views import profile\n```\n\n```python\n\n\n```\n\n```python\ndef profile(uname):\n    user = User.query.filter_by(username = uname).first()\n    if user is None:\n        abort(404)\n    return render_template(\"profile/profile.html\", user = user)\n@main.route('/user/<uname>/update',methods = ['GET','POST'])\n@login_required\ndef update_profile(uname):\n    user = User.query.filter_by(username = uname).first()\n    if user is None:\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "update_profile",
+        "kind": 2,
+        "importPath": "app.main.views",
+        "description": "app.main.views",
+        "peekOfCode": "def update_profile(uname):\n    user = User.query.filter_by(username = uname).first()\n    if user is None:\n        abort(404)\n    form = UpdateProfile()\n    if form.validate_on_submit():\n        user.bio = form.bio.data\n        db.session.add(user)\n        db.session.commit()\n        return redirect(url_for('.profile',uname=user.username))",
+        "detail": "app.main.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.views import update_profile\n```\n\n```python\n\n\n```\n\n```python\ndef update_profile(uname):\n    user = User.query.filter_by(username = uname).first()\n    if user is None:\n        abort(404)\n    form = UpdateProfile()\n    if form.validate_on_submit():\n        user.bio = form.bio.data\n        db.session.add(user)\n        db.session.commit()\n        return redirect(url_for('.profile',uname=user.username))\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "update_pic",
+        "kind": 2,
+        "importPath": "app.main.views",
+        "description": "app.main.views",
+        "peekOfCode": "def update_pic(uname):\n    user = User.query.filter_by(username = uname).first()\n    if 'photo' in request.files:\n        filename = photos.save(request.files['photo'])\n        path = f'photos/{filename}'\n        user.profile_pic_path = path\n        user_photo = PhotoProfile(pic_path = path,user = user)\n        db.session.commit()\n    return redirect(url_for('main.profile',uname=uname))",
+        "detail": "app.main.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.views import update_pic\n```\n\n```python\n\n\n```\n\n```python\ndef update_pic(uname):\n    user = User.query.filter_by(username = uname).first()\n    if 'photo' in request.files:\n        filename = photos.save(request.files['photo'])\n        path = f'photos/{filename}'\n        user.profile_pic_path = path\n        user_photo = PhotoProfile(pic_path = path,user = user)\n        db.session.commit()\n    return redirect(url_for('main.profile',uname=uname))\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "@main.route('/user/<uname>/update',methods",
+        "kind": 5,
+        "importPath": "app.main.views",
+        "description": "app.main.views",
+        "peekOfCode": "@main.route('/user/<uname>/update',methods = ['GET','POST'])\n@login_required\ndef update_profile(uname):\n    user = User.query.filter_by(username = uname).first()\n    if user is None:\n        abort(404)\n    form = UpdateProfile()\n    if form.validate_on_submit():\n        user.bio = form.bio.data\n        db.session.add(user)",
+        "detail": "app.main.views",
+        "documentation": {
+            "value": "\n```python\nfrom app.main.views import @main.route('/user/<uname>/update',methods\n```\n\n```python\n\n\n```\n\n```python\n@main.route('/user/<uname>/update',methods = ['GET','POST'])\n@login_required\ndef update_profile(uname):\n    user = User.query.filter_by(username = uname).first()\n    if user is None:\n        abort(404)\n    form = UpdateProfile()\n    if form.validate_on_submit():\n        user.bio = form.bio.data\n        db.session.add(user)\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -333,10 +1142,46 @@
         "kind": 2,
         "importPath": "app.__init__",
         "description": "app.__init__",
-        "peekOfCode": "def create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    # Registering the blueprint\n    from .main import main as main_blueprint\n    app.register_blueprint(main_blueprint)\n    # setting config",
+        "peekOfCode": "def create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    db.init_app(app)\n    login_manager.init_app(app)\n    mail.init_app(app)",
         "detail": "app.__init__",
         "documentation": {
-            "value": "\n```python\nfrom app.__init__ import create_app\n```\n\n```python\n\n\n```\n\n```python\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    # Registering the blueprint\n    from .main import main as main_blueprint\n    app.register_blueprint(main_blueprint)\n    # setting config\n```\n",
+            "value": "\n```python\nfrom app.__init__ import create_app\n```\n\n```python\n\n\n```\n\n```python\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    db.init_app(app)\n    login_manager.init_app(app)\n    mail.init_app(app)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login_manager",
+        "kind": 5,
+        "importPath": "app.__init__",
+        "description": "app.__init__",
+        "peekOfCode": "login_manager = LoginManager()\nlogin_manager.session_protection = 'strong'\nlogin_manager.login_view = 'auth.login'\nbootstrap = Bootstrap()\ndb = SQLAlchemy()\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)",
+        "detail": "app.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.__init__ import login_manager\n```\n\n```python\n\n\n```\n\n```python\nlogin_manager = LoginManager()\nlogin_manager.session_protection = 'strong'\nlogin_manager.login_view = 'auth.login'\nbootstrap = Bootstrap()\ndb = SQLAlchemy()\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login_manager.session_protection",
+        "kind": 5,
+        "importPath": "app.__init__",
+        "description": "app.__init__",
+        "peekOfCode": "login_manager.session_protection = 'strong'\nlogin_manager.login_view = 'auth.login'\nbootstrap = Bootstrap()\ndb = SQLAlchemy()\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations",
+        "detail": "app.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.__init__ import login_manager.session_protection\n```\n\n```python\n\n\n```\n\n```python\nlogin_manager.session_protection = 'strong'\nlogin_manager.login_view = 'auth.login'\nbootstrap = Bootstrap()\ndb = SQLAlchemy()\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "login_manager.login_view",
+        "kind": 5,
+        "importPath": "app.__init__",
+        "description": "app.__init__",
+        "peekOfCode": "login_manager.login_view = 'auth.login'\nbootstrap = Bootstrap()\ndb = SQLAlchemy()\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])",
+        "detail": "app.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.__init__ import login_manager.login_view\n```\n\n```python\n\n\n```\n\n```python\nlogin_manager.login_view = 'auth.login'\nbootstrap = Bootstrap()\ndb = SQLAlchemy()\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -345,10 +1190,94 @@
         "kind": 5,
         "importPath": "app.__init__",
         "description": "app.__init__",
-        "peekOfCode": "bootstrap = Bootstrap()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    # Registering the blueprint\n    from .main import main as main_blueprint\n    app.register_blueprint(main_blueprint)",
+        "peekOfCode": "bootstrap = Bootstrap()\ndb = SQLAlchemy()\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False",
         "detail": "app.__init__",
         "documentation": {
-            "value": "\n```python\nfrom app.__init__ import bootstrap\n```\n\n```python\n\n\n```\n\n```python\nbootstrap = Bootstrap()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    # Registering the blueprint\n    from .main import main as main_blueprint\n    app.register_blueprint(main_blueprint)\n```\n",
+            "value": "\n```python\nfrom app.__init__ import bootstrap\n```\n\n```python\n\n\n```\n\n```python\nbootstrap = Bootstrap()\ndb = SQLAlchemy()\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "db",
+        "kind": 5,
+        "importPath": "app.__init__",
+        "description": "app.__init__",
+        "peekOfCode": "db = SQLAlchemy()\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n    # Initializing flask extensions",
+        "detail": "app.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.__init__ import db\n```\n\n```python\n\n\n```\n\n```python\ndb = SQLAlchemy()\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n    # Initializing flask extensions\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "photos",
+        "kind": 5,
+        "importPath": "app.__init__",
+        "description": "app.__init__",
+        "peekOfCode": "photos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n    # Initializing flask extensions\n    bootstrap.init_app(app)",
+        "detail": "app.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.__init__ import photos\n```\n\n```python\n\n\n```\n\n```python\nphotos = UploadSet('photos',IMAGES)\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "mail",
+        "kind": 5,
+        "importPath": "app.__init__",
+        "description": "app.__init__",
+        "peekOfCode": "mail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    db.init_app(app)",
+        "detail": "app.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.__init__ import mail\n```\n\n```python\n\n\n```\n\n```python\nmail = Mail()\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    db.init_app(app)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "simple",
+        "kind": 5,
+        "importPath": "app.__init__",
+        "description": "app.__init__",
+        "peekOfCode": "simple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    db.init_app(app)\n    login_manager.init_app(app)",
+        "detail": "app.__init__",
+        "documentation": {
+            "value": "\n```python\nfrom app.__init__ import simple\n```\n\n```python\n\n\n```\n\n```python\nsimple = SimpleMDE()\ndef create_app(config_name):\n    app = Flask(__name__)\n    # Creating the app configurations\n    app.config.from_object(config_options[config_name])\n    app.config['SQLALCHEMY_TRACK_MODIFICATIONS'] = False\n    # Initializing flask extensions\n    bootstrap.init_app(app)\n    db.init_app(app)\n    login_manager.init_app(app)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "mail_message",
+        "kind": 2,
+        "importPath": "app.email",
+        "description": "app.email",
+        "peekOfCode": "def mail_message(subject,template,to,**kwargs):\n    email = Message(subject_pref+subject,sender=sender_email,recipients=[to])\n    email.body= render_template(template + \".txt\",**kwargs)\n    email.html = render_template(template + \".html\",**kwargs)\n    mail.send(email)",
+        "detail": "app.email",
+        "documentation": {
+            "value": "\n```python\nfrom app.email import mail_message\n```\n\n```python\n\n\n```\n\n```python\ndef mail_message(subject,template,to,**kwargs):\n    email = Message(subject_pref+subject,sender=sender_email,recipients=[to])\n    email.body= render_template(template + \".txt\",**kwargs)\n    email.html = render_template(template + \".html\",**kwargs)\n    mail.send(email)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "subject_pref",
+        "kind": 5,
+        "importPath": "app.email",
+        "description": "app.email",
+        "peekOfCode": "subject_pref = 'Watchlist'\nsender_email = 'akumucollins001@gmail.com'\ndef mail_message(subject,template,to,**kwargs):\n    email = Message(subject_pref+subject,sender=sender_email,recipients=[to])\n    email.body= render_template(template + \".txt\",**kwargs)\n    email.html = render_template(template + \".html\",**kwargs)\n    mail.send(email)",
+        "detail": "app.email",
+        "documentation": {
+            "value": "\n```python\nfrom app.email import subject_pref\n```\n\n```python\n\n\n```\n\n```python\nsubject_pref = 'Watchlist'\nsender_email = 'akumucollins001@gmail.com'\ndef mail_message(subject,template,to,**kwargs):\n    email = Message(subject_pref+subject,sender=sender_email,recipients=[to])\n    email.body= render_template(template + \".txt\",**kwargs)\n    email.html = render_template(template + \".html\",**kwargs)\n    mail.send(email)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "sender_email",
+        "kind": 5,
+        "importPath": "app.email",
+        "description": "app.email",
+        "peekOfCode": "sender_email = 'akumucollins001@gmail.com'\ndef mail_message(subject,template,to,**kwargs):\n    email = Message(subject_pref+subject,sender=sender_email,recipients=[to])\n    email.body= render_template(template + \".txt\",**kwargs)\n    email.html = render_template(template + \".html\",**kwargs)\n    mail.send(email)",
+        "detail": "app.email",
+        "documentation": {
+            "value": "\n```python\nfrom app.email import sender_email\n```\n\n```python\n\n\n```\n\n```python\nsender_email = 'akumucollins001@gmail.com'\ndef mail_message(subject,template,to,**kwargs):\n    email = Message(subject_pref+subject,sender=sender_email,recipients=[to])\n    email.body= render_template(template + \".txt\",**kwargs)\n    email.html = render_template(template + \".html\",**kwargs)\n    mail.send(email)\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -369,10 +1298,58 @@
         "kind": 6,
         "importPath": "app.models",
         "description": "app.models",
-        "peekOfCode": "class Review:\n    all_reviews = []\n    def __init__(self,movie_id,title,imageurl,review):\n        self.movie_id = movie_id\n        self.title = title\n        self.imageurl = imageurl\n        self.review = review\n    def save_review(self):\n        Review.all_reviews.append(self)\n    @classmethod",
+        "peekOfCode": "class Review(db.Model):\n    __tablename__ = 'reviews'\n    id = db.Column(db.Integer,primary_key = True)\n    movie_id = db.Column(db.Integer)\n    movie_title = db.Column(db.String)\n    image_path = db.Column(db.String)\n    movie_review = db.Column(db.String)\n    posted = db.Column(db.Time,default=datetime.utcnow())\n    user_id = db.Column(db.Integer,db.ForeignKey(\"users.id\"))\n    def save_review(self):",
         "detail": "app.models",
         "documentation": {
-            "value": "\n```python\nfrom app.models import Review\n```\n\n```python\n\n\n```\n\n```python\nclass Review:\n    all_reviews = []\n    def __init__(self,movie_id,title,imageurl,review):\n        self.movie_id = movie_id\n        self.title = title\n        self.imageurl = imageurl\n        self.review = review\n    def save_review(self):\n        Review.all_reviews.append(self)\n    @classmethod\n```\n",
+            "value": "\n```python\nfrom app.models import Review\n```\n\n```python\n\n\n```\n\n```python\nclass Review(db.Model):\n    __tablename__ = 'reviews'\n    id = db.Column(db.Integer,primary_key = True)\n    movie_id = db.Column(db.Integer)\n    movie_title = db.Column(db.String)\n    image_path = db.Column(db.String)\n    movie_review = db.Column(db.String)\n    posted = db.Column(db.Time,default=datetime.utcnow())\n    user_id = db.Column(db.Integer,db.ForeignKey(\"users.id\"))\n    def save_review(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "PhotoProfile",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class PhotoProfile(db.Model):\n    __tablename__ = 'profile_photos'\n    id = db.Column(db.Integer,primary_key = True)\n    pic_path = db.Column(db.String())\n    user_id = db.Column(db.Integer,db.ForeignKey(\"users.id\"))\nclass User(UserMixin,db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer,primary_key = True)\n    username = db.Column(db.String(255),index = True)\n    email = db.Column(db.String(255),unique = True,index = True)",
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nfrom app.models import PhotoProfile\n```\n\n```python\n\n\n```\n\n```python\nclass PhotoProfile(db.Model):\n    __tablename__ = 'profile_photos'\n    id = db.Column(db.Integer,primary_key = True)\n    pic_path = db.Column(db.String())\n    user_id = db.Column(db.Integer,db.ForeignKey(\"users.id\"))\nclass User(UserMixin,db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer,primary_key = True)\n    username = db.Column(db.String(255),index = True)\n    email = db.Column(db.String(255),unique = True,index = True)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "User",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class User(UserMixin,db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer,primary_key = True)\n    username = db.Column(db.String(255),index = True)\n    email = db.Column(db.String(255),unique = True,index = True)\n    role_id = db.Column(db.Integer,db.ForeignKey('roles.id'))\n    bio = db.Column(db.String(255))\n    profile_pic_path = db.Column(db.String())\n    pass_secure = db.Column(db.String(255))\n    photos = db.relationship('PhotoProfile',backref = 'user',lazy = \"dynamic\")",
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nfrom app.models import User\n```\n\n```python\n\n\n```\n\n```python\nclass User(UserMixin,db.Model):\n    __tablename__ = 'users'\n    id = db.Column(db.Integer,primary_key = True)\n    username = db.Column(db.String(255),index = True)\n    email = db.Column(db.String(255),unique = True,index = True)\n    role_id = db.Column(db.Integer,db.ForeignKey('roles.id'))\n    bio = db.Column(db.String(255))\n    profile_pic_path = db.Column(db.String())\n    pass_secure = db.Column(db.String(255))\n    photos = db.relationship('PhotoProfile',backref = 'user',lazy = \"dynamic\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "Role",
+        "kind": 6,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "class Role(db.Model):\n    __tablename__ = 'roles'\n    id = db.Column(db.Integer,primary_key = True)\n    name = db.Column(db.String(255))\n    users = db.relationship('User',backref = 'role',lazy=\"dynamic\")\n    def __repr__(self):\n        return f'User {self.name}'",
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nfrom app.models import Role\n```\n\n```python\n\n\n```\n\n```python\nclass Role(db.Model):\n    __tablename__ = 'roles'\n    id = db.Column(db.Integer,primary_key = True)\n    name = db.Column(db.String(255))\n    users = db.relationship('User',backref = 'role',lazy=\"dynamic\")\n    def __repr__(self):\n        return f'User {self.name}'\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "load_user",
+        "kind": 2,
+        "importPath": "app.models",
+        "description": "app.models",
+        "peekOfCode": "def load_user(user_id):\n    return User.query.get(int(user_id))\nclass Movie:\n    '''\n    Movie class to define Movie Objects\n    '''\n    def __init__(self,id,title,overview,poster,vote_average,vote_count):\n        self.id =id\n        self.title = title\n        self.overview = overview",
+        "detail": "app.models",
+        "documentation": {
+            "value": "\n```python\nfrom app.models import load_user\n```\n\n```python\n\n\n```\n\n```python\ndef load_user(user_id):\n    return User.query.get(int(user_id))\nclass Movie:\n    '''\n    Movie class to define Movie Objects\n    '''\n    def __init__(self,id,title,overview,poster,vote_average,vote_count):\n        self.id =id\n        self.title = title\n        self.overview = overview\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -461,6 +1438,210 @@
         }
     },
     {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.4652b323bf76_initial_migration",
+        "description": "migrations.versions.4652b323bf76_initial_migration",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('reviews',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('movie_id', sa.Integer(), nullable=True),\n    sa.Column('movie_title', sa.String(), nullable=True),\n    sa.Column('image_path', sa.String(), nullable=True),\n    sa.Column('movie_review', sa.String(), nullable=True),\n    sa.Column('posted', sa.Time(), nullable=True),\n    sa.Column('user_id', sa.Integer(), nullable=True),",
+        "detail": "migrations.versions.4652b323bf76_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.4652b323bf76_initial_migration import upgrade\n```\n\n```python\n\n\n```\n\n```python\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('reviews',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('movie_id', sa.Integer(), nullable=True),\n    sa.Column('movie_title', sa.String(), nullable=True),\n    sa.Column('image_path', sa.String(), nullable=True),\n    sa.Column('movie_review', sa.String(), nullable=True),\n    sa.Column('posted', sa.Time(), nullable=True),\n    sa.Column('user_id', sa.Integer(), nullable=True),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.4652b323bf76_initial_migration",
+        "description": "migrations.versions.4652b323bf76_initial_migration",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('reviews')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.4652b323bf76_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.4652b323bf76_initial_migration import downgrade\n```\n\n```python\n\n\n```\n\n```python\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('reviews')\n    # ### end Alembic commands ###\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.4652b323bf76_initial_migration",
+        "description": "migrations.versions.4652b323bf76_initial_migration",
+        "peekOfCode": "revision = '4652b323bf76'\ndown_revision = '7700275d5dd3'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('reviews',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('movie_id', sa.Integer(), nullable=True),\n    sa.Column('movie_title', sa.String(), nullable=True),",
+        "detail": "migrations.versions.4652b323bf76_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.4652b323bf76_initial_migration import revision\n```\n\n```python\n\n\n```\n\n```python\nrevision = '4652b323bf76'\ndown_revision = '7700275d5dd3'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('reviews',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('movie_id', sa.Integer(), nullable=True),\n    sa.Column('movie_title', sa.String(), nullable=True),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.4652b323bf76_initial_migration",
+        "description": "migrations.versions.4652b323bf76_initial_migration",
+        "peekOfCode": "down_revision = '7700275d5dd3'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('reviews',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('movie_id', sa.Integer(), nullable=True),\n    sa.Column('movie_title', sa.String(), nullable=True),\n    sa.Column('image_path', sa.String(), nullable=True),",
+        "detail": "migrations.versions.4652b323bf76_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.4652b323bf76_initial_migration import down_revision\n```\n\n```python\n\n\n```\n\n```python\ndown_revision = '7700275d5dd3'\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('reviews',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('movie_id', sa.Integer(), nullable=True),\n    sa.Column('movie_title', sa.String(), nullable=True),\n    sa.Column('image_path', sa.String(), nullable=True),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.4652b323bf76_initial_migration",
+        "description": "migrations.versions.4652b323bf76_initial_migration",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('reviews',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('movie_id', sa.Integer(), nullable=True),\n    sa.Column('movie_title', sa.String(), nullable=True),\n    sa.Column('image_path', sa.String(), nullable=True),\n    sa.Column('movie_review', sa.String(), nullable=True),",
+        "detail": "migrations.versions.4652b323bf76_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.4652b323bf76_initial_migration import branch_labels\n```\n\n```python\n\n\n```\n\n```python\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('reviews',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('movie_id', sa.Integer(), nullable=True),\n    sa.Column('movie_title', sa.String(), nullable=True),\n    sa.Column('image_path', sa.String(), nullable=True),\n    sa.Column('movie_review', sa.String(), nullable=True),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.4652b323bf76_initial_migration",
+        "description": "migrations.versions.4652b323bf76_initial_migration",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('reviews',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('movie_id', sa.Integer(), nullable=True),\n    sa.Column('movie_title', sa.String(), nullable=True),\n    sa.Column('image_path', sa.String(), nullable=True),\n    sa.Column('movie_review', sa.String(), nullable=True),\n    sa.Column('posted', sa.Time(), nullable=True),",
+        "detail": "migrations.versions.4652b323bf76_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.4652b323bf76_initial_migration import depends_on\n```\n\n```python\n\n\n```\n\n```python\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('reviews',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('movie_id', sa.Integer(), nullable=True),\n    sa.Column('movie_title', sa.String(), nullable=True),\n    sa.Column('image_path', sa.String(), nullable=True),\n    sa.Column('movie_review', sa.String(), nullable=True),\n    sa.Column('posted', sa.Time(), nullable=True),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "upgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.7700275d5dd3_initial_migration",
+        "description": "migrations.versions.7700275d5dd3_initial_migration",
+        "peekOfCode": "def upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('roles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('username', sa.String(length=255), nullable=True),",
+        "detail": "migrations.versions.7700275d5dd3_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.7700275d5dd3_initial_migration import upgrade\n```\n\n```python\n\n\n```\n\n```python\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('roles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('username', sa.String(length=255), nullable=True),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "downgrade",
+        "kind": 2,
+        "importPath": "migrations.versions.7700275d5dd3_initial_migration",
+        "description": "migrations.versions.7700275d5dd3_initial_migration",
+        "peekOfCode": "def downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('profile_photos')\n    op.drop_index(op.f('ix_users_username'), table_name='users')\n    op.drop_index(op.f('ix_users_email'), table_name='users')\n    op.drop_table('users')\n    op.drop_table('roles')\n    # ### end Alembic commands ###",
+        "detail": "migrations.versions.7700275d5dd3_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.7700275d5dd3_initial_migration import downgrade\n```\n\n```python\n\n\n```\n\n```python\ndef downgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.drop_table('profile_photos')\n    op.drop_index(op.f('ix_users_username'), table_name='users')\n    op.drop_index(op.f('ix_users_email'), table_name='users')\n    op.drop_table('users')\n    op.drop_table('roles')\n    # ### end Alembic commands ###\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "revision",
+        "kind": 5,
+        "importPath": "migrations.versions.7700275d5dd3_initial_migration",
+        "description": "migrations.versions.7700275d5dd3_initial_migration",
+        "peekOfCode": "revision = '7700275d5dd3'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('roles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')",
+        "detail": "migrations.versions.7700275d5dd3_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.7700275d5dd3_initial_migration import revision\n```\n\n```python\n\n\n```\n\n```python\nrevision = '7700275d5dd3'\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('roles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "down_revision",
+        "kind": 5,
+        "importPath": "migrations.versions.7700275d5dd3_initial_migration",
+        "description": "migrations.versions.7700275d5dd3_initial_migration",
+        "peekOfCode": "down_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('roles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )",
+        "detail": "migrations.versions.7700275d5dd3_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.7700275d5dd3_initial_migration import down_revision\n```\n\n```python\n\n\n```\n\n```python\ndown_revision = None\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('roles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "branch_labels",
+        "kind": 5,
+        "importPath": "migrations.versions.7700275d5dd3_initial_migration",
+        "description": "migrations.versions.7700275d5dd3_initial_migration",
+        "peekOfCode": "branch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('roles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('users',",
+        "detail": "migrations.versions.7700275d5dd3_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.7700275d5dd3_initial_migration import branch_labels\n```\n\n```python\n\n\n```\n\n```python\nbranch_labels = None\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('roles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('users',\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "depends_on",
+        "kind": 5,
+        "importPath": "migrations.versions.7700275d5dd3_initial_migration",
+        "description": "migrations.versions.7700275d5dd3_initial_migration",
+        "peekOfCode": "depends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('roles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),",
+        "detail": "migrations.versions.7700275d5dd3_initial_migration",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.versions.7700275d5dd3_initial_migration import depends_on\n```\n\n```python\n\n\n```\n\n```python\ndepends_on = None\ndef upgrade():\n    # ### commands auto generated by Alembic - please adjust! ###\n    op.create_table('roles',\n    sa.Column('id', sa.Integer(), nullable=False),\n    sa.Column('name', sa.String(length=255), nullable=True),\n    sa.PrimaryKeyConstraint('id')\n    )\n    op.create_table('users',\n    sa.Column('id', sa.Integer(), nullable=False),\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_migrations_offline",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")",
+        "detail": "migrations.env",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.env import run_migrations_offline\n```\n\n```python\n\n\n```\n\n```python\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n    we don't even need a DBAPI to be available.\n    Calls to context.execute() here emit the given string to the\n    script output.\n    \"\"\"\n    url = config.get_main_option(\"sqlalchemy.url\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "run_migrations_online",
+        "kind": 2,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "def run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # this callback is used to prevent an auto-migration from being generated\n    # when there are no changes to the schema\n    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.html\n    def process_revision_directives(context, revision, directives):\n        if getattr(config.cmd_opts, 'autogenerate', False):",
+        "detail": "migrations.env",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.env import run_migrations_online\n```\n\n```python\n\n\n```\n\n```python\ndef run_migrations_online():\n    \"\"\"Run migrations in 'online' mode.\n    In this scenario we need to create an Engine\n    and associate a connection with the context.\n    \"\"\"\n    # this callback is used to prevent an auto-migration from being generated\n    # when there are no changes to the schema\n    # reference: http://alembic.zzzcomputing.com/en/latest/cookbook.html\n    def process_revision_directives(context, revision, directives):\n        if getattr(config.cmd_opts, 'autogenerate', False):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "config",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "config = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\nlogger = logging.getLogger('alembic.env')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\nfrom flask import current_app",
+        "detail": "migrations.env",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.env import config\n```\n\n```python\n\n\n```\n\n```python\nconfig = context.config\n# Interpret the config file for Python logging.\n# This line sets up loggers basically.\nfileConfig(config.config_file_name)\nlogger = logging.getLogger('alembic.env')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\nfrom flask import current_app\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "logger",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "logger = logging.getLogger('alembic.env')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\nfrom flask import current_app\nconfig.set_main_option(\n    'sqlalchemy.url',\n    str(current_app.extensions['migrate'].db.engine.url).replace('%', '%%'))\ntarget_metadata = current_app.extensions['migrate'].db.metadata",
+        "detail": "migrations.env",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.env import logger\n```\n\n```python\n\n\n```\n\n```python\nlogger = logging.getLogger('alembic.env')\n# add your model's MetaData object here\n# for 'autogenerate' support\n# from myapp import mymodel\n# target_metadata = mymodel.Base.metadata\nfrom flask import current_app\nconfig.set_main_option(\n    'sqlalchemy.url',\n    str(current_app.extensions['migrate'].db.engine.url).replace('%', '%%'))\ntarget_metadata = current_app.extensions['migrate'].db.metadata\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "target_metadata",
+        "kind": 5,
+        "importPath": "migrations.env",
+        "description": "migrations.env",
+        "peekOfCode": "target_metadata = current_app.extensions['migrate'].db.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation",
+        "detail": "migrations.env",
+        "documentation": {
+            "value": "\n```python\nfrom migrations.env import target_metadata\n```\n\n```python\n\n\n```\n\n```python\ntarget_metadata = current_app.extensions['migrate'].db.metadata\n# other values from the config, defined by the needs of env.py,\n# can be acquired:\n# my_important_option = config.get_main_option(\"my_important_option\")\n# ... etc.\ndef run_migrations_offline():\n    \"\"\"Run migrations in 'offline' mode.\n    This configures the context with just a URL\n    and not an Engine, though an Engine is acceptable\n    here as well.  By skipping the Engine creation\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
         "label": "MovieTest",
         "kind": 6,
         "importPath": "tests.movie_test",
@@ -477,10 +1658,82 @@
         "kind": 6,
         "importPath": "tests.review_test",
         "description": "tests.review_test",
-        "peekOfCode": "class MovieTest(unittest.TestCase):\n    '''\n    Test Class to test the behaviour of the Movie class\n    '''\n    def setUp(self):\n        '''\n        Set up method that will run before every Test\n        '''\n        self.new_movie = Movie(1234,'Python Must Be Crazy','A thrilling new Python Series','/khsjha27hbs',8.5,129993)\n    def test_instance(self):",
+        "peekOfCode": "class MovieTest(unittest.TestCase):\n    '''\n    Test Class to test the behaviour of the Movie class\n    '''\ndef setUp(self):\n    self.user_James = User(username = 'James',password = 'potato', email = 'james@ms.com')\n    self.new_review = Review(movie_id=12345,movie_title='Review for movies',image_path=\"https://image.tmdb.org/t/p/w500/jdjdjdjn\",movie_review='This movie is the best thing since sliced bread',user = self.user_James )\ndef tearDown(self):\n    Review.query.delete()\n    User.query.delete()",
         "detail": "tests.review_test",
         "documentation": {
-            "value": "\n```python\nfrom tests.review_test import MovieTest\n```\n\n```python\n\n\n```\n\n```python\nclass MovieTest(unittest.TestCase):\n    '''\n    Test Class to test the behaviour of the Movie class\n    '''\n    def setUp(self):\n        '''\n        Set up method that will run before every Test\n        '''\n        self.new_movie = Movie(1234,'Python Must Be Crazy','A thrilling new Python Series','/khsjha27hbs',8.5,129993)\n    def test_instance(self):\n```\n",
+            "value": "\n```python\nfrom tests.review_test import MovieTest\n```\n\n```python\n\n\n```\n\n```python\nclass MovieTest(unittest.TestCase):\n    '''\n    Test Class to test the behaviour of the Movie class\n    '''\ndef setUp(self):\n    self.user_James = User(username = 'James',password = 'potato', email = 'james@ms.com')\n    self.new_review = Review(movie_id=12345,movie_title='Review for movies',image_path=\"https://image.tmdb.org/t/p/w500/jdjdjdjn\",movie_review='This movie is the best thing since sliced bread',user = self.user_James )\ndef tearDown(self):\n    Review.query.delete()\n    User.query.delete()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "setUp",
+        "kind": 2,
+        "importPath": "tests.review_test",
+        "description": "tests.review_test",
+        "peekOfCode": "def setUp(self):\n    self.user_James = User(username = 'James',password = 'potato', email = 'james@ms.com')\n    self.new_review = Review(movie_id=12345,movie_title='Review for movies',image_path=\"https://image.tmdb.org/t/p/w500/jdjdjdjn\",movie_review='This movie is the best thing since sliced bread',user = self.user_James )\ndef tearDown(self):\n    Review.query.delete()\n    User.query.delete()\ndef test_check_instance_variables(self):\n    self.assertEquals(self.new_review.movie_id,12345)\n    self.assertEquals(self.new_review.movie_title,'Review for movies')\n    self.assertEquals(self.new_review.image_path,\"https://image.tmdb.org/t/p/w500/jdjdjdjn\")",
+        "detail": "tests.review_test",
+        "documentation": {
+            "value": "\n```python\nfrom tests.review_test import setUp\n```\n\n```python\n\n\n```\n\n```python\ndef setUp(self):\n    self.user_James = User(username = 'James',password = 'potato', email = 'james@ms.com')\n    self.new_review = Review(movie_id=12345,movie_title='Review for movies',image_path=\"https://image.tmdb.org/t/p/w500/jdjdjdjn\",movie_review='This movie is the best thing since sliced bread',user = self.user_James )\ndef tearDown(self):\n    Review.query.delete()\n    User.query.delete()\ndef test_check_instance_variables(self):\n    self.assertEquals(self.new_review.movie_id,12345)\n    self.assertEquals(self.new_review.movie_title,'Review for movies')\n    self.assertEquals(self.new_review.image_path,\"https://image.tmdb.org/t/p/w500/jdjdjdjn\")\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "tearDown",
+        "kind": 2,
+        "importPath": "tests.review_test",
+        "description": "tests.review_test",
+        "peekOfCode": "def tearDown(self):\n    Review.query.delete()\n    User.query.delete()\ndef test_check_instance_variables(self):\n    self.assertEquals(self.new_review.movie_id,12345)\n    self.assertEquals(self.new_review.movie_title,'Review for movies')\n    self.assertEquals(self.new_review.image_path,\"https://image.tmdb.org/t/p/w500/jdjdjdjn\")\n    self.assertEquals(self.new_review.movie_review,'This movie is the best thing since sliced bread')\n    self.assertEquals(self.new_review.user,self.user_James)    \ndef test_save_review(self):",
+        "detail": "tests.review_test",
+        "documentation": {
+            "value": "\n```python\nfrom tests.review_test import tearDown\n```\n\n```python\n\n\n```\n\n```python\ndef tearDown(self):\n    Review.query.delete()\n    User.query.delete()\ndef test_check_instance_variables(self):\n    self.assertEquals(self.new_review.movie_id,12345)\n    self.assertEquals(self.new_review.movie_title,'Review for movies')\n    self.assertEquals(self.new_review.image_path,\"https://image.tmdb.org/t/p/w500/jdjdjdjn\")\n    self.assertEquals(self.new_review.movie_review,'This movie is the best thing since sliced bread')\n    self.assertEquals(self.new_review.user,self.user_James)    \ndef test_save_review(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "test_check_instance_variables",
+        "kind": 2,
+        "importPath": "tests.review_test",
+        "description": "tests.review_test",
+        "peekOfCode": "def test_check_instance_variables(self):\n    self.assertEquals(self.new_review.movie_id,12345)\n    self.assertEquals(self.new_review.movie_title,'Review for movies')\n    self.assertEquals(self.new_review.image_path,\"https://image.tmdb.org/t/p/w500/jdjdjdjn\")\n    self.assertEquals(self.new_review.movie_review,'This movie is the best thing since sliced bread')\n    self.assertEquals(self.new_review.user,self.user_James)    \ndef test_save_review(self):\n    self.new_review.save_review()\n    self.assertTrue(len(Review.query.all())>0)  \ndef test_get_review_by_id(self):",
+        "detail": "tests.review_test",
+        "documentation": {
+            "value": "\n```python\nfrom tests.review_test import test_check_instance_variables\n```\n\n```python\n\n\n```\n\n```python\ndef test_check_instance_variables(self):\n    self.assertEquals(self.new_review.movie_id,12345)\n    self.assertEquals(self.new_review.movie_title,'Review for movies')\n    self.assertEquals(self.new_review.image_path,\"https://image.tmdb.org/t/p/w500/jdjdjdjn\")\n    self.assertEquals(self.new_review.movie_review,'This movie is the best thing since sliced bread')\n    self.assertEquals(self.new_review.user,self.user_James)    \ndef test_save_review(self):\n    self.new_review.save_review()\n    self.assertTrue(len(Review.query.all())>0)  \ndef test_get_review_by_id(self):\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "test_save_review",
+        "kind": 2,
+        "importPath": "tests.review_test",
+        "description": "tests.review_test",
+        "peekOfCode": "def test_save_review(self):\n    self.new_review.save_review()\n    self.assertTrue(len(Review.query.all())>0)  \ndef test_get_review_by_id(self):\n    self.new_review.save_review()\n    got_reviews = Review.get_reviews(12345)\n    self.assertTrue(len(got_reviews) == 1)",
+        "detail": "tests.review_test",
+        "documentation": {
+            "value": "\n```python\nfrom tests.review_test import test_save_review\n```\n\n```python\n\n\n```\n\n```python\ndef test_save_review(self):\n    self.new_review.save_review()\n    self.assertTrue(len(Review.query.all())>0)  \ndef test_get_review_by_id(self):\n    self.new_review.save_review()\n    got_reviews = Review.get_reviews(12345)\n    self.assertTrue(len(got_reviews) == 1)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "test_get_review_by_id",
+        "kind": 2,
+        "importPath": "tests.review_test",
+        "description": "tests.review_test",
+        "peekOfCode": "def test_get_review_by_id(self):\n    self.new_review.save_review()\n    got_reviews = Review.get_reviews(12345)\n    self.assertTrue(len(got_reviews) == 1)",
+        "detail": "tests.review_test",
+        "documentation": {
+            "value": "\n```python\nfrom tests.review_test import test_get_review_by_id\n```\n\n```python\n\n\n```\n\n```python\ndef test_get_review_by_id(self):\n    self.new_review.save_review()\n    got_reviews = Review.get_reviews(12345)\n    self.assertTrue(len(got_reviews) == 1)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "UserModelTest",
+        "kind": 6,
+        "importPath": "tests.test_user",
+        "description": "tests.test_user",
+        "peekOfCode": "class UserModelTest(unittest.TestCase):\n    def setUp(self):\n        self.new_user = User(password = 'banana')\n    def test_password_setter(self):\n        self.assertTrue(self.new_user.pass_secure is not None)\n    def test_no_access_password(self):\n     with self.assertRaises(AttributeError):\n        self.new_user.password\n    def test_password_verification(self):\n        self.assertTrue(self.new_user.verify_password('banana'))",
+        "detail": "tests.test_user",
+        "documentation": {
+            "value": "\n```python\nfrom tests.test_user import UserModelTest\n```\n\n```python\n\n\n```\n\n```python\nclass UserModelTest(unittest.TestCase):\n    def setUp(self):\n        self.new_user = User(password = 'banana')\n    def test_password_setter(self):\n        self.assertTrue(self.new_user.pass_secure is not None)\n    def test_no_access_password(self):\n     with self.assertRaises(AttributeError):\n        self.new_user.password\n    def test_password_verification(self):\n        self.assertTrue(self.new_user.verify_password('banana'))\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -489,10 +1742,10 @@
         "kind": 6,
         "importPath": "config",
         "description": "config",
-        "peekOfCode": "class Config:\n    '''\n    General configuration parent class\n    '''\n    MOVIE_API_BASE_URL ='https://api.themoviedb.org/3/movie/{}?api_key={}'\n    MOVIE_API_KEY = os.environ.get('MOVIE_API_KEY')\n    SECRET_KEY = os.environ.get('SECRET_KEY')\nclass ProdConfig(Config):\n    '''\n    Production  configuration child class",
+        "peekOfCode": "class Config:\n    '''\n    General configuration parent class\n    '''\n    MOVIE_API_BASE_URL ='https://api.themoviedb.org/3/movie/{}?api_key={}'\n    MOVIE_API_KEY = os.environ.get('MOVIE_API_KEY')\n    SECRET_KEY = os.environ.get('SECRET_KEY')\n    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:collins2000@localhost/watchlist'\n    UPLOADED_PHOTOS_DEST ='app/static/photos'\n    #  email configurations",
         "detail": "config",
         "documentation": {
-            "value": "\n```python\nfrom config import Config\n```\n\n```python\n\n\n```\n\n```python\nclass Config:\n    '''\n    General configuration parent class\n    '''\n    MOVIE_API_BASE_URL ='https://api.themoviedb.org/3/movie/{}?api_key={}'\n    MOVIE_API_KEY = os.environ.get('MOVIE_API_KEY')\n    SECRET_KEY = os.environ.get('SECRET_KEY')\nclass ProdConfig(Config):\n    '''\n    Production  configuration child class\n```\n",
+            "value": "\n```python\nfrom config import Config\n```\n\n```python\n\n\n```\n\n```python\nclass Config:\n    '''\n    General configuration parent class\n    '''\n    MOVIE_API_BASE_URL ='https://api.themoviedb.org/3/movie/{}?api_key={}'\n    MOVIE_API_KEY = os.environ.get('MOVIE_API_KEY')\n    SECRET_KEY = os.environ.get('SECRET_KEY')\n    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:collins2000@localhost/watchlist'\n    UPLOADED_PHOTOS_DEST ='app/static/photos'\n    #  email configurations\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -501,10 +1754,22 @@
         "kind": 6,
         "importPath": "config",
         "description": "config",
-        "peekOfCode": "class ProdConfig(Config):\n    '''\n    Production  configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    pass\nclass DevConfig(Config):\n    '''\n    Development  configuration child class",
+        "peekOfCode": "class ProdConfig(Config):\n    '''\n    Production configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    pass\nclass TestConfig(Config):\n    '''\n    Test configuration child class",
         "detail": "config",
         "documentation": {
-            "value": "\n```python\nfrom config import ProdConfig\n```\n\n```python\n\n\n```\n\n```python\nclass ProdConfig(Config):\n    '''\n    Production  configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    pass\nclass DevConfig(Config):\n    '''\n    Development  configuration child class\n```\n",
+            "value": "\n```python\nfrom config import ProdConfig\n```\n\n```python\n\n\n```\n\n```python\nclass ProdConfig(Config):\n    '''\n    Production configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    pass\nclass TestConfig(Config):\n    '''\n    Test configuration child class\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "TestConfig",
+        "kind": 6,
+        "importPath": "config",
+        "description": "config",
+        "peekOfCode": "class TestConfig(Config):\n    '''\n    Test configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:collins2000@localhost/watchlist'\nclass DevConfig(Config):\n    '''\n    Development configuration child class",
+        "detail": "config",
+        "documentation": {
+            "value": "\n```python\nfrom config import TestConfig\n```\n\n```python\n\n\n```\n\n```python\nclass TestConfig(Config):\n    '''\n    Test configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:collins2000@localhost/watchlist'\nclass DevConfig(Config):\n    '''\n    Development configuration child class\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -513,10 +1778,10 @@
         "kind": 6,
         "importPath": "config",
         "description": "config",
-        "peekOfCode": "class DevConfig(Config):\n    '''\n    Development  configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    DEBUG = True\nconfig_options = {\n'development':DevConfig,\n'production':ProdConfig",
+        "peekOfCode": "class DevConfig(Config):\n    '''\n    Development configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:collins2000@localhost/watchlist'\n    DEBUG = True\nconfig_options = {\n'development':DevConfig,",
         "detail": "config",
         "documentation": {
-            "value": "\n```python\nfrom config import DevConfig\n```\n\n```python\n\n\n```\n\n```python\nclass DevConfig(Config):\n    '''\n    Development  configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    DEBUG = True\nconfig_options = {\n'development':DevConfig,\n'production':ProdConfig\n```\n",
+            "value": "\n```python\nfrom config import DevConfig\n```\n\n```python\n\n\n```\n\n```python\nclass DevConfig(Config):\n    '''\n    Development configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    SQLALCHEMY_DATABASE_URI = 'postgresql+psycopg2://moringa:collins2000@localhost/watchlist'\n    DEBUG = True\nconfig_options = {\n'development':DevConfig,\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -525,10 +1790,10 @@
         "kind": 5,
         "importPath": "config",
         "description": "config",
-        "peekOfCode": "config_options = {\n'development':DevConfig,\n'production':ProdConfig\n}",
+        "peekOfCode": "config_options = {\n'development':DevConfig,\n'production':ProdConfig,\n'test':TestConfig\n}",
         "detail": "config",
         "documentation": {
-            "value": "\n```python\nfrom config import config_options\n```\n\n```python\n\n\n```\n\n```python\nconfig_options = {\n'development':DevConfig,\n'production':ProdConfig\n}\n```\n",
+            "value": "\n```python\nfrom config import config_options\n```\n\n```python\n\n\n```\n\n```python\nconfig_options = {\n'development':DevConfig,\n'production':ProdConfig,\n'test':TestConfig\n}\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -537,10 +1802,22 @@
         "kind": 2,
         "importPath": "manage",
         "description": "manage",
-        "peekOfCode": "def test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':\n    manager.run()",
+        "peekOfCode": "def test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\n@manager.shell\ndef make_shell_context():\n    return dict(app = app,db = db,User = User, Role = Role,Review =Review)\nif __name__ == '__main__':\n    manager.run()",
         "detail": "manage",
         "documentation": {
-            "value": "\n```python\nfrom manage import test\n```\n\n```python\n\n\n```\n\n```python\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':\n    manager.run()\n```\n",
+            "value": "\n```python\nfrom manage import test\n```\n\n```python\n\n\n```\n\n```python\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\n@manager.shell\ndef make_shell_context():\n    return dict(app = app,db = db,User = User, Role = Role,Review =Review)\nif __name__ == '__main__':\n    manager.run()\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "make_shell_context",
+        "kind": 2,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "def make_shell_context():\n    return dict(app = app,db = db,User = User, Role = Role,Review =Review)\nif __name__ == '__main__':\n    manager.run()",
+        "detail": "manage",
+        "documentation": {
+            "value": "\n```python\nfrom manage import make_shell_context\n```\n\n```python\n\n\n```\n\n```python\ndef make_shell_context():\n    return dict(app = app,db = db,User = User, Role = Role,Review =Review)\nif __name__ == '__main__':\n    manager.run()\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -549,10 +1826,10 @@
         "kind": 5,
         "importPath": "manage",
         "description": "manage",
-        "peekOfCode": "app = create_app('development')\nmanager = Manager(app)\nmanager.add_command('server',Server)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':",
+        "peekOfCode": "app = create_app('production')\nmanager = Manager(app)\nmigrate = Migrate(app,db)\nmanager.add_command('server',Server)\nmanager.add_command('db',MigrateCommand)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')",
         "detail": "manage",
         "documentation": {
-            "value": "\n```python\nfrom manage import app\n```\n\n```python\n\n\n```\n\n```python\napp = create_app('development')\nmanager = Manager(app)\nmanager.add_command('server',Server)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':\n```\n",
+            "value": "\n```python\nfrom manage import app\n```\n\n```python\n\n\n```\n\n```python\napp = create_app('production')\nmanager = Manager(app)\nmigrate = Migrate(app,db)\nmanager.add_command('server',Server)\nmanager.add_command('db',MigrateCommand)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n```\n",
             "supportThemeIcons": false
         }
     },
@@ -561,10 +1838,22 @@
         "kind": 5,
         "importPath": "manage",
         "description": "manage",
-        "peekOfCode": "manager = Manager(app)\nmanager.add_command('server',Server)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':\n    manager.run()",
+        "peekOfCode": "manager = Manager(app)\nmigrate = Migrate(app,db)\nmanager.add_command('server',Server)\nmanager.add_command('db',MigrateCommand)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)",
         "detail": "manage",
         "documentation": {
-            "value": "\n```python\nfrom manage import manager\n```\n\n```python\n\n\n```\n\n```python\nmanager = Manager(app)\nmanager.add_command('server',Server)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\nif __name__ == '__main__':\n    manager.run()\n```\n",
+            "value": "\n```python\nfrom manage import manager\n```\n\n```python\n\n\n```\n\n```python\nmanager = Manager(app)\nmigrate = Migrate(app,db)\nmanager.add_command('server',Server)\nmanager.add_command('db',MigrateCommand)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\n```\n",
+            "supportThemeIcons": false
+        }
+    },
+    {
+        "label": "migrate",
+        "kind": 5,
+        "importPath": "manage",
+        "description": "manage",
+        "peekOfCode": "migrate = Migrate(app,db)\nmanager.add_command('server',Server)\nmanager.add_command('db',MigrateCommand)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\n@manager.shell",
+        "detail": "manage",
+        "documentation": {
+            "value": "\n```python\nfrom manage import migrate\n```\n\n```python\n\n\n```\n\n```python\nmigrate = Migrate(app,db)\nmanager.add_command('server',Server)\nmanager.add_command('db',MigrateCommand)\n@manager.command\ndef test():\n    \"\"\"Run the unit tests.\"\"\"\n    import unittest\n    tests = unittest.TestLoader().discover('tests')\n    unittest.TextTestRunner(verbosity=2).run(tests)\n@manager.shell\n```\n",
             "supportThemeIcons": false
         }
     }
