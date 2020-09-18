@@ -1754,10 +1754,10 @@
         "kind": 6,
         "importPath": "config",
         "description": "config",
-        "peekOfCode": "class ProdConfig(Config):\n    '''\n    Production configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    pass\nclass TestConfig(Config):\n    '''\n    Test configuration child class",
+        "peekOfCode": "class ProdConfig(Config):\n    '''\n    Production configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    SQLALCHEMY_DATABASE_URI = os.environ.get(\" HEROKU_POSTGRESQL_RED_URL\")\nclass TestConfig(Config):\n    '''\n    Test configuration child class",
         "detail": "config",
         "documentation": {
-            "value": "\n```python\nfrom config import ProdConfig\n```\n\n```python\n\n\n```\n\n```python\nclass ProdConfig(Config):\n    '''\n    Production configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    pass\nclass TestConfig(Config):\n    '''\n    Test configuration child class\n```\n",
+            "value": "\n```python\nfrom config import ProdConfig\n```\n\n```python\n\n\n```\n\n```python\nclass ProdConfig(Config):\n    '''\n    Production configuration child class\n    Args:\n        Config: The parent configuration class with General configuration settings\n    '''\n    SQLALCHEMY_DATABASE_URI = os.environ.get(\" HEROKU_POSTGRESQL_RED_URL\")\nclass TestConfig(Config):\n    '''\n    Test configuration child class\n```\n",
             "supportThemeIcons": false
         }
     },
